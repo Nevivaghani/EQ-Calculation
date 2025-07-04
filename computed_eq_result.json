@@ -1,0 +1,90 @@
+{
+  "eq_score": 60.0,
+  "trait_summary": {
+    "Self-Awareness": {
+      "average_score": 3.0,
+      "raw_scores": [
+        3,
+        3,
+        2,
+        4,
+        3,
+        4,
+        2
+      ]
+    },
+    "Empathy": {
+      "average_score": 3.0,
+      "raw_scores": [
+        3,
+        3
+      ]
+    }
+  },
+  "age_group": "8-10",
+  "responses": [
+    {
+      "question_text": "What do you think it would be like if you spent a whole day smiling?",
+      "selected_label": "I would feel a little bit happier",
+      "trait": "Self-Awareness",
+      "trait_level": "Moderate",
+      "age_group": "8-10"
+    },
+    {
+      "question_text": "How do you feel when you see someone smiling at you?",
+      "selected_label": "Okay",
+      "trait": "Self-Awareness",
+      "trait_level": "Moderate",
+      "age_group": "8-10"
+    },
+    {
+      "question_text": "What do you do when you feel sad?",
+      "selected_label": "I don't know",
+      "trait": "Self-Awareness",
+      "trait_level": "Low",
+      "age_group": "8-10"
+    },
+    {
+      "question_text": "How do you feel when you squeeze your muscles really hard like holding juicy oranges?",
+      "selected_label": "Happy and strong",
+      "trait": "Self-Awareness",
+      "trait_level": "High",
+      "age_group": "8-10"
+    },
+    {
+      "question_text": "What do you usually do when you regret your reaction to a situation?",
+      "selected_label": "I get angry with myself",
+      "trait": "Self-Awareness",
+      "trait_level": "Moderate",
+      "age_group": "8-10"
+    },
+    {
+      "question_text": "How much do you think Kelly felt for her friend Mandy when she was picked last?",
+      "selected_label": "Somewhat",
+      "trait": "Empathy",
+      "trait_level": "Moderate",
+      "age_group": "8-10"
+    },
+    {
+      "question_text": "How do you feel when you're left alone in class?",
+      "selected_label": "Okay, i can handle it",
+      "trait": "Self-Awareness",
+      "trait_level": "High",
+      "age_group": "8-10"
+    },
+    {
+      "question_text": "What do you think is the most important thing to write about your friend on the strip?",
+      "selected_label": "Something you like to do with them",
+      "trait": "Empathy",
+      "trait_level": "Moderate",
+      "age_group": "8-10"
+    },
+    {
+      "question_text": "What are some things you've been able to show other people how to do?",
+      "selected_label": "None",
+      "trait": "Self-Awareness",
+      "trait_level": "Low",
+      "age_group": "8-10"
+    }
+  ]
+}

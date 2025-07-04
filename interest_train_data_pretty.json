@@ -1,0 +1,1658 @@
+[
+  {
+    "prompt": "EQ Score: 56.7\nTrait Summary:\n- Self-Awareness: 3.0\n- Empathy: 2.67\nAge Group: 11-15",
+    "completion": "Interest Fields: Philosophy, Nursing"
+  },
+  {
+    "prompt": "EQ Score: 55.53\nTrait Summary:\n- Self-Awareness: 3.33\n- Empathy: 2.0\n- Motivation: 3.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Public Speaking, Writing"
+  },
+  {
+    "prompt": "EQ Score: 60.0\nTrait Summary:\n- Empathy: 3.0\n- Self-Awareness: 3.0\n- Motivation: 3.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Writing, Nursing, Entrepreneurship"
+  },
+  {
+    "prompt": "EQ Score: 52.5\nTrait Summary:\n- Self-Awareness: 2.75\n- Empathy: 2.5\nAge Group: 11-15",
+    "completion": "Interest Fields: Philosophy, Nursing"
+  },
+  {
+    "prompt": "EQ Score: 54.67\nTrait Summary:\n- Self-Awareness: 3.2\n- Empathy: 3.0\n- Social Skills: 2.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Journaling, Teaching"
+  },
+  {
+    "prompt": "EQ Score: 50.0\nTrait Summary:\n- Self-Awareness: 3.17\n- Empathy: 2.33\n- Social Skills: 2.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Writing"
+  },
+  {
+    "prompt": "EQ Score: 61.0\nTrait Summary:\n- Empathy: 2.75\n- Self-Awareness: 3.4\n- Motivation: 3.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Public Speaking, Teaching, Writing"
+  },
+  {
+    "prompt": "EQ Score: 62.9\nTrait Summary:\n- Empathy: 3.0\n- Self-Awareness: 3.29\nAge Group: 11-15",
+    "completion": "Interest Fields: Writing, Counseling"
+  },
+  {
+    "prompt": "EQ Score: 74.33\nTrait Summary:\n- Motivation: 4.0\n- Empathy: 3.4\n- Self-Awareness: 3.75\nAge Group: 11-15",
+    "completion": "Interest Fields: Writing, Entrepreneurship, Journaling, Nursing, Competitive Sports"
+  },
+  {
+    "prompt": "EQ Score: 59.35\nTrait Summary:\n- Empathy: 2.67\n- Self-Awareness: 3.2\n- Social Skills: 3.0\n- Motivation: 3.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Debating, Philosophy, Public Speaking"
+  },
+  {
+    "prompt": "EQ Score: 46.0\nTrait Summary:\n- Self-Awareness: 2.4\n- Social Skills: 2.0\n- Empathy: 2.5\nAge Group: 11-15",
+    "completion": "Interest Fields: Nursing"
+  },
+  {
+    "prompt": "EQ Score: 60.47\nTrait Summary:\n- Self-Awareness: 2.57\n- Motivation: 3.0\n- Empathy: 3.5\nAge Group: 11-15",
+    "completion": "Interest Fields: Counseling, Journaling, Entrepreneurship, Teaching"
+  },
+  {
+    "prompt": "EQ Score: 60.47\nTrait Summary:\n- Self-Awareness: 2.57\n- Motivation: 3.0\n- Empathy: 3.5\nAge Group: 11-15",
+    "completion": "Interest Fields: Competitive Sports, Writing, Counseling, Nursing"
+  },
+  {
+    "prompt": "EQ Score: 52.5\nTrait Summary:\n- Empathy: 2.5\n- Self-Awareness: 3.0\n- Social Skills: 2.0\n- Motivation: 3.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Public Speaking, Writing, Teaching"
+  },
+  {
+    "prompt": "EQ Score: 63.67\nTrait Summary:\n- Empathy: 2.75\n- Self-Awareness: 2.8\n- Motivation: 4.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Philosophy, Competitive Sports, Entrepreneurship, Nursing"
+  },
+  {
+    "prompt": "EQ Score: 50.93\nTrait Summary:\n- Self-Awareness: 3.14\n- Empathy: 2.5\n- Motivation: 2.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Teaching, Journaling"
+  },
+  {
+    "prompt": "EQ Score: 71.1\nTrait Summary:\n- Self-Awareness: 3.11\n- Empathy: 4.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Teaching, Nursing, Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 67.5\nTrait Summary:\n- Self-Awareness: 3.25\n- Empathy: 3.5\nAge Group: 11-15",
+    "completion": "Interest Fields: Teaching, Writing, Nursing"
+  },
+  {
+    "prompt": "EQ Score: 61.1\nTrait Summary:\n- Self-Awareness: 3.11\n- Empathy: 3.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Nursing, Writing"
+  },
+  {
+    "prompt": "EQ Score: 56.0\nTrait Summary:\n- Self-Awareness: 3.2\n- Empathy: 2.4\nAge Group: 11-15",
+    "completion": "Interest Fields: Writing"
+  },
+  {
+    "prompt": "EQ Score: 56.7\nTrait Summary:\n- Self-Awareness: 2.67\n- Empathy: 3.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Counseling, Writing"
+  },
+  {
+    "prompt": "EQ Score: 62.33\nTrait Summary:\n- Empathy: 2.75\n- Self-Awareness: 2.6\n- Social Skills: 4.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Team Sports, Nursing, Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 53.33\nTrait Summary:\n- Self-Awareness: 2.67\n- Social Skills: 3.0\n- Empathy: 2.33\nAge Group: 11-15",
+    "completion": "Interest Fields: Debating, Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 62.4\nTrait Summary:\n- Self-Awareness: 2.86\n- Empathy: 2.5\n- Motivation: 4.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Entrepreneurship, Writing, Public Speaking, Nursing"
+  },
+  {
+    "prompt": "EQ Score: 72.9\nTrait Summary:\n- Empathy: 3.25\n- Self-Awareness: 3.33\n- Social Skills: 4.0\n- Motivation: 4.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Debating, Entrepreneurship, Competitive Sports, Team Sports, Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 58.3\nTrait Summary:\n- Empathy: 3.33\n- Self-Awareness: 2.5\nAge Group: 11-15",
+    "completion": "Interest Fields: Teaching, Journaling"
+  },
+  {
+    "prompt": "EQ Score: 55.7\nTrait Summary:\n- Self-Awareness: 3.14\n- Empathy: 3.0\n- Social Skills: 2.0\n- Motivation: 3.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Teaching, Philosophy, Entrepreneurship"
+  },
+  {
+    "prompt": "EQ Score: 70.0\nTrait Summary:\n- Self-Awareness: 3.83\n- Motivation: 3.0\n- Empathy: 3.67\nAge Group: 11-15",
+    "completion": "Interest Fields: Counseling, Philosophy, Journaling, Public Speaking, Nursing"
+  },
+  {
+    "prompt": "EQ Score: 69.2\nTrait Summary:\n- Empathy: 3.75\n- Self-Awareness: 3.17\nAge Group: 11-15",
+    "completion": "Interest Fields: Writing, Teaching, Nursing"
+  },
+  {
+    "prompt": "EQ Score: 47.67\nTrait Summary:\n- Empathy: 2.75\n- Self-Awareness: 2.4\n- Social Skills: 2.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Nursing"
+  },
+  {
+    "prompt": "EQ Score: 62.87\nTrait Summary:\n- Motivation: 3.5\n- Empathy: 2.6\n- Self-Awareness: 3.33\nAge Group: 11-15",
+    "completion": "Interest Fields: Journaling, Competitive Sports, Teaching, Public Speaking"
+  },
+  {
+    "prompt": "EQ Score: 55.27\nTrait Summary:\n- Self-Awareness: 3.29\n- Empathy: 3.0\n- Social Skills: 2.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Nursing, Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 66.35\nTrait Summary:\n- Self-Awareness: 2.6\n- Social Skills: 4.0\n- Empathy: 3.67\n- Motivation: 3.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Public Speaking, Team Sports, Counseling, Acting, Teaching"
+  },
+  {
+    "prompt": "EQ Score: 58.67\nTrait Summary:\n- Empathy: 3.0\n- Self-Awareness: 2.8\n- Motivation: 3.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Public Speaking, Nursing, Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 70.0\nTrait Summary:\n- Self-Awareness: 3.17\n- Empathy: 3.33\n- Social Skills: 4.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Counseling, Writing, Debating"
+  },
+  {
+    "prompt": "EQ Score: 62.15\nTrait Summary:\n- Self-Awareness: 2.43\n- Motivation: 4.0\n- Empathy: 4.0\n- Social Skills: 2.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Nursing, Competitive Sports, Counseling, Public Speaking"
+  },
+  {
+    "prompt": "EQ Score: 52.0\nTrait Summary:\n- Self-Awareness: 2.8\n- Motivation: 2.0\n- Empathy: 3.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Philosophy, Teaching"
+  },
+  {
+    "prompt": "EQ Score: 50.0\nTrait Summary:\n- Empathy: 3.17\n- Self-Awareness: 2.33\n- Social Skills: 2.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Nursing"
+  },
+  {
+    "prompt": "EQ Score: 66.0\nTrait Summary:\n- Self-Awareness: 2.8\n- Empathy: 3.8\nAge Group: 11-15",
+    "completion": "Interest Fields: Counseling, Philosophy, Teaching"
+  },
+  {
+    "prompt": "EQ Score: 55.53\nTrait Summary:\n- Self-Awareness: 3.33\n- Empathy: 3.0\n- Social Skills: 2.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Nursing, Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 58.0\nTrait Summary:\n- Self-Awareness: 3.0\n- Empathy: 2.8\nAge Group: 11-15",
+    "completion": "Interest Fields: Philosophy, Nursing"
+  },
+  {
+    "prompt": "EQ Score: 62.87\nTrait Summary:\n- Self-Awareness: 3.6\n- Empathy: 3.33\n- Motivation: 2.5\nAge Group: 11-15",
+    "completion": "Interest Fields: Entrepreneurship, Writing, Philosophy, Nursing"
+  },
+  {
+    "prompt": "EQ Score: 61.7\nTrait Summary:\n- Empathy: 3.0\n- Self-Awareness: 3.17\nAge Group: 11-15",
+    "completion": "Interest Fields: Teaching, Journaling"
+  },
+  {
+    "prompt": "EQ Score: 53.33\nTrait Summary:\n- Motivation: 2.0\n- Self-Awareness: 2.67\n- Empathy: 3.33\nAge Group: 11-15",
+    "completion": "Interest Fields: Teaching, Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 58.3\nTrait Summary:\n- Self-Awareness: 2.83\n- Empathy: 3.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Journaling, Counseling"
+  },
+  {
+    "prompt": "EQ Score: 42.5\nTrait Summary:\n- Self-Awareness: 2.75\n- Empathy: 1.5\nAge Group: 11-15",
+    "completion": "Interest Fields: Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 60.33\nTrait Summary:\n- Self-Awareness: 2.8\n- Empathy: 3.25\n- Social Skills: 3.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Debating, Counseling, Writing"
+  },
+  {
+    "prompt": "EQ Score: 67.6\nTrait Summary:\n- Self-Awareness: 3.43\n- Empathy: 3.33\nAge Group: 11-15",
+    "completion": "Interest Fields: Nursing, Journaling"
+  },
+  {
+    "prompt": "EQ Score: 48.0\nTrait Summary:\n- Social Skills: 2.0\n- Empathy: 3.0\n- Motivation: 2.0\n- Self-Awareness: 2.6\nAge Group: 11-15",
+    "completion": "Interest Fields: Journaling, Counseling"
+  },
+  {
+    "prompt": "EQ Score: 48.9\nTrait Summary:\n- Self-Awareness: 2.89\n- Empathy: 2.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 45.6\nTrait Summary:\n- Empathy: 2.67\n- Motivation: 2.0\n- Self-Awareness: 2.17\nAge Group: 11-15",
+    "completion": "Interest Fields: Nursing"
+  },
+  {
+    "prompt": "EQ Score: 60.0\nTrait Summary:\n- Empathy: 3.2\n- Self-Awareness: 2.8\nAge Group: 11-15",
+    "completion": "Interest Fields: Nursing, Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 66.33\nTrait Summary:\n- Empathy: 2.75\n- Self-Awareness: 3.2\n- Social Skills: 4.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Team Sports, Debating, Writing, Counseling"
+  },
+  {
+    "prompt": "EQ Score: 64.0\nTrait Summary:\n- Empathy: 3.0\n- Motivation: 4.0\n- Self-Awareness: 2.6\nAge Group: 11-15",
+    "completion": "Interest Fields: Journaling, Public Speaking, Nursing, Competitive Sports"
+  },
+  {
+    "prompt": "EQ Score: 55.27\nTrait Summary:\n- Self-Awareness: 3.29\n- Empathy: 3.0\n- Motivation: 2.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Teaching, Writing"
+  },
+  {
+    "prompt": "EQ Score: 63.35\nTrait Summary:\n- Self-Awareness: 3.17\n- Social Skills: 2.0\n- Empathy: 3.5\n- Motivation: 4.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Entrepreneurship, Competitive Sports, Counseling, Journaling, Teaching"
+  },
+  {
+    "prompt": "EQ Score: 62.5\nTrait Summary:\n- Self-Awareness: 3.0\n- Empathy: 3.25\nAge Group: 11-15",
+    "completion": "Interest Fields: Nursing, Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 54.7\nTrait Summary:\n- Empathy: 3.14\n- Self-Awareness: 2.33\nAge Group: 11-15",
+    "completion": "Interest Fields: Nursing"
+  },
+  {
+    "prompt": "EQ Score: 62.5\nTrait Summary:\n- Self-Awareness: 3.25\n- Empathy: 3.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Philosophy, Nursing"
+  },
+  {
+    "prompt": "EQ Score: 48.0\nTrait Summary:\n- Empathy: 3.0\n- Self-Awareness: 2.2\n- Social Skills: 2.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Counseling"
+  },
+  {
+    "prompt": "EQ Score: 57.1\nTrait Summary:\n- Self-Awareness: 2.71\n- Empathy: 3.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Philosophy, Teaching"
+  },
+  {
+    "prompt": "EQ Score: 58.07\nTrait Summary:\n- Self-Awareness: 2.71\n- Empathy: 3.0\n- Social Skills: 3.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Debating, Counseling, Writing"
+  },
+  {
+    "prompt": "EQ Score: 62.87\nTrait Summary:\n- Self-Awareness: 2.43\n- Empathy: 3.0\n- Motivation: 4.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Teaching, Entrepreneurship, Public Speaking"
+  },
+  {
+    "prompt": "EQ Score: 72.65\nTrait Summary:\n- Social Skills: 4.0\n- Empathy: 3.33\n- Motivation: 4.0\n- Self-Awareness: 3.2\nAge Group: 11-15",
+    "completion": "Interest Fields: Competitive Sports, Debating, Entrepreneurship, Acting, Teaching"
+  },
+  {
+    "prompt": "EQ Score: 62.0\nTrait Summary:\n- Empathy: 3.0\n- Self-Awareness: 3.2\nAge Group: 11-15",
+    "completion": "Interest Fields: Teaching, Writing"
+  },
+  {
+    "prompt": "EQ Score: 71.07\nTrait Summary:\n- Self-Awareness: 3.33\n- Empathy: 3.33\n- Social Skills: 4.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Debating, Team Sports, Nursing, Writing"
+  },
+  {
+    "prompt": "EQ Score: 67.67\nTrait Summary:\n- Empathy: 2.75\n- Self-Awareness: 3.4\n- Motivation: 4.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Entrepreneurship, Public Speaking, Nursing, Journaling"
+  },
+  {
+    "prompt": "EQ Score: 64.4\nTrait Summary:\n- Self-Awareness: 3.33\n- Empathy: 3.33\n- Social Skills: 3.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Counseling, Debating, Journaling"
+  },
+  {
+    "prompt": "EQ Score: 60.4\nTrait Summary:\n- Self-Awareness: 2.71\n- Empathy: 3.33\nAge Group: 11-15",
+    "completion": "Interest Fields: Journaling, Counseling"
+  },
+  {
+    "prompt": "EQ Score: 68.93\nTrait Summary:\n- Self-Awareness: 2.67\n- Empathy: 3.67\n- Social Skills: 4.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Team Sports, Writing, Acting, Teaching, Counseling"
+  },
+  {
+    "prompt": "EQ Score: 51.13\nTrait Summary:\n- Self-Awareness: 2.67\n- Social Skills: 2.0\n- Empathy: 3.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Nursing, Writing"
+  },
+  {
+    "prompt": "EQ Score: 65.53\nTrait Summary:\n- Self-Awareness: 2.83\n- Social Skills: 4.0\n- Empathy: 3.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Philosophy, Debating, Nursing, Acting"
+  },
+  {
+    "prompt": "EQ Score: 56.7\nTrait Summary:\n- Empathy: 3.0\n- Self-Awareness: 2.67\nAge Group: 11-15",
+    "completion": "Interest Fields: Journaling, Nursing"
+  },
+  {
+    "prompt": "EQ Score: 50.0\nTrait Summary:\n- Self-Awareness: 3.0\n- Empathy: 2.0\n- Motivation: 2.0\n- Social Skills: 3.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Journaling"
+  },
+  {
+    "prompt": "EQ Score: 68.87\nTrait Summary:\n- Empathy: 3.33\n- Self-Awareness: 3.0\n- Social Skills: 4.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Team Sports, Counseling, Journaling"
+  },
+  {
+    "prompt": "EQ Score: 55.53\nTrait Summary:\n- Empathy: 2.33\n- Self-Awareness: 3.0\n- Motivation: 3.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Competitive Sports, Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 66.7\nTrait Summary:\n- Empathy: 3.17\n- Self-Awareness: 3.5\nAge Group: 11-15",
+    "completion": "Interest Fields: Philosophy, Counseling, Writing"
+  },
+  {
+    "prompt": "EQ Score: 56.0\nTrait Summary:\n- Empathy: 2.4\n- Self-Awareness: 3.2\nAge Group: 11-15",
+    "completion": "Interest Fields: Journaling"
+  },
+  {
+    "prompt": "EQ Score: 61.33\nTrait Summary:\n- Empathy: 3.0\n- Self-Awareness: 2.2\n- Social Skills: 4.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Debating, Nursing"
+  },
+  {
+    "prompt": "EQ Score: 53.33\nTrait Summary:\n- Self-Awareness: 2.33\n- Empathy: 3.67\n- Social Skills: 2.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Teaching, Nursing"
+  },
+  {
+    "prompt": "EQ Score: 46.7\nTrait Summary:\n- Empathy: 2.17\n- Self-Awareness: 2.5\nAge Group: 11-15",
+    "completion": "Interest Fields: Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 57.47\nTrait Summary:\n- Self-Awareness: 2.62\n- Motivation: 2.0\n- Empathy: 4.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Teaching, Journaling, Counseling"
+  },
+  {
+    "prompt": "EQ Score: 57.47\nTrait Summary:\n- Self-Awareness: 2.62\n- Motivation: 4.0\n- Empathy: 2.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Entrepreneurship, Competitive Sports, Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 62.65\nTrait Summary:\n- Self-Awareness: 3.2\n- Empathy: 3.33\n- Motivation: 4.0\n- Social Skills: 2.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Writing, Public Speaking, Counseling, Competitive Sports"
+  },
+  {
+    "prompt": "EQ Score: 71.4\nTrait Summary:\n- Self-Awareness: 2.71\n- Motivation: 4.0\n- Empathy: 4.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Writing, Public Speaking, Counseling, Teaching, Competitive Sports"
+  },
+  {
+    "prompt": "EQ Score: 58.1\nTrait Summary:\n- Empathy: 3.67\n- Self-Awareness: 2.14\nAge Group: 11-15",
+    "completion": "Interest Fields: Teaching, Nursing"
+  },
+  {
+    "prompt": "EQ Score: 61.67\nTrait Summary:\n- Motivation: 3.0\n- Self-Awareness: 3.25\n- Empathy: 3.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Philosophy, Teaching, Competitive Sports"
+  },
+  {
+    "prompt": "EQ Score: 43.33\nTrait Summary:\n- Self-Awareness: 2.83\n- Empathy: 1.67\n- Social Skills: 2.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Journaling"
+  },
+  {
+    "prompt": "EQ Score: 56.33\nTrait Summary:\n- Empathy: 3.2\n- Social Skills: 2.0\n- Self-Awareness: 3.25\nAge Group: 11-15",
+    "completion": "Interest Fields: Philosophy, Counseling"
+  },
+  {
+    "prompt": "EQ Score: 70.47\nTrait Summary:\n- Self-Awareness: 3.57\n- Motivation: 3.0\n- Empathy: 4.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Nursing, Writing, Journaling, Counseling, Competitive Sports"
+  },
+  {
+    "prompt": "EQ Score: 62.5\nTrait Summary:\n- Self-Awareness: 2.75\n- Empathy: 3.5\nAge Group: 11-15",
+    "completion": "Interest Fields: Nursing, Philosophy, Counseling"
+  },
+  {
+    "prompt": "EQ Score: 62.5\nTrait Summary:\n- Empathy: 3.5\n- Self-Awareness: 3.0\n- Motivation: 4.0\n- Social Skills: 2.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Public Speaking, Philosophy, Counseling, Entrepreneurship, Teaching"
+  },
+  {
+    "prompt": "EQ Score: 54.33\nTrait Summary:\n- Empathy: 2.4\n- Self-Awareness: 3.75\n- Social Skills: 2.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Writing, Journaling"
+  },
+  {
+    "prompt": "EQ Score: 68.1\nTrait Summary:\n- Empathy: 3.67\n- Self-Awareness: 3.14\nAge Group: 11-15",
+    "completion": "Interest Fields: Philosophy, Teaching, Nursing"
+  },
+  {
+    "prompt": "EQ Score: 51.9\nTrait Summary:\n- Self-Awareness: 2.86\n- Empathy: 2.33\nAge Group: 11-15",
+    "completion": "Interest Fields: Writing"
+  },
+  {
+    "prompt": "EQ Score: 67.5\nTrait Summary:\n- Self-Awareness: 2.75\n- Empathy: 4.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Nursing, Teaching, Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 66.0\nTrait Summary:\n- Empathy: 3.0\n- Self-Awareness: 3.6\nAge Group: 11-15",
+    "completion": "Interest Fields: Philosophy, Counseling, Writing"
+  },
+  {
+    "prompt": "EQ Score: 61.25\nTrait Summary:\n- Self-Awareness: 2.5\n- Empathy: 2.75\n- Social Skills: 4.0\n- Motivation: 3.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Entrepreneurship, Counseling, Team Sports, Acting"
+  },
+  {
+    "prompt": "EQ Score: 69.2\nTrait Summary:\n- Self-Awareness: 3.38\n- Empathy: 3.0\n- Motivation: 4.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Counseling, Public Speaking, Philosophy, Competitive Sports"
+  },
+  {
+    "prompt": "EQ Score: 57.8\nTrait Summary:\n- Empathy: 3.0\n- Self-Awareness: 2.67\n- Motivation: 3.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Journaling, Nursing, Competitive Sports"
+  },
+  {
+    "prompt": "EQ Score: 56.67\nTrait Summary:\n- Social Skills: 2.0\n- Empathy: 3.67\n- Self-Awareness: 2.83\nAge Group: 11-15",
+    "completion": "Interest Fields: Nursing, Counseling, Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 53.0\nTrait Summary:\n- Empathy: 2.75\n- Self-Awareness: 3.2\n- Motivation: 2.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Teaching, Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 56.0\nTrait Summary:\n- Self-Awareness: 2.8\n- Empathy: 2.8\nAge Group: 11-15",
+    "completion": "Interest Fields: Teaching, Journaling"
+  },
+  {
+    "prompt": "EQ Score: 61.13\nTrait Summary:\n- Self-Awareness: 3.17\n- Empathy: 3.0\n- Motivation: 3.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Writing, Entrepreneurship, Teaching"
+  },
+  {
+    "prompt": "EQ Score: 66.0\nTrait Summary:\n- Self-Awareness: 3.6\n- Empathy: 3.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Nursing, Writing, Journaling"
+  },
+  {
+    "prompt": "EQ Score: 44.0\nTrait Summary:\n- Empathy: 2.2\n- Self-Awareness: 2.2\nAge Group: 11-15",
+    "completion": "Interest Fields:"
+  },
+  {
+    "prompt": "EQ Score: 57.5\nTrait Summary:\n- Empathy: 2.75\n- Self-Awareness: 3.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Nursing, Writing"
+  },
+  {
+    "prompt": "EQ Score: 60.0\nTrait Summary:\n- Empathy: 3.0\n- Self-Awareness: 3.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Nursing, Journaling"
+  },
+  {
+    "prompt": "EQ Score: 64.73\nTrait Summary:\n- Empathy: 3.0\n- Self-Awareness: 2.71\n- Social Skills: 4.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Team Sports, Nursing, Debating, Writing"
+  },
+  {
+    "prompt": "EQ Score: 51.4\nTrait Summary:\n- Self-Awareness: 2.71\n- Empathy: 3.0\n- Social Skills: 2.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Writing, Counseling"
+  },
+  {
+    "prompt": "EQ Score: 57.67\nTrait Summary:\n- Empathy: 2.4\n- Self-Awareness: 3.25\n- Motivation: 3.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Public Speaking, Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 64.15\nTrait Summary:\n- Empathy: 3.0\n- Self-Awareness: 2.83\n- Motivation: 3.0\n- Social Skills: 4.0\nAge Group: 11-15",
+    "completion": "Interest Fields: Team Sports, Nursing, Debating, Competitive Sports"
+  },
+  {
+    "prompt": "EQ Score: 61.9\nTrait Summary:\n- Self-Awareness: 2.86\n- Empathy: 3.33\nAge Group: 11-15",
+    "completion": "Interest Fields: Writing, Counseling"
+  },
+  {
+    "prompt": "EQ Score: 69.0\nTrait Summary:\n- Self-Awareness: 3.57\n- Empathy: 3.33\nAge Group: 11-15",
+    "completion": "Interest Fields: Philosophy, Journaling, Nursing"
+  },
+  {
+    "prompt": "EQ Score: 51.4\nTrait Summary:\n- Self-Awareness: 3.14\n- Empathy: 2.0\nAge Group: 8-10",
+    "completion": "Interest Fields: Writing"
+  },
+  {
+    "prompt": "EQ Score: 65.0\nTrait Summary:\n- Self-Awareness: 3.0\n- Empathy: 3.5\nAge Group: 8-10",
+    "completion": "Interest Fields: Philosophy, Nursing, Teaching"
+  },
+  {
+    "prompt": "EQ Score: 51.4\nTrait Summary:\n- Self-Awareness: 3.14\n- Empathy: 2.0\nAge Group: 8-10",
+    "completion": "Interest Fields: Journaling"
+  },
+  {
+    "prompt": "EQ Score: 62.1\nTrait Summary:\n- Empathy: 3.5\n- Self-Awareness: 2.71\nAge Group: 8-10",
+    "completion": "Interest Fields: Journaling, Nursing, Teaching"
+  },
+  {
+    "prompt": "EQ Score: 63.6\nTrait Summary:\n- Empathy: 3.5\n- Self-Awareness: 2.86\nAge Group: 8-10",
+    "completion": "Interest Fields: Counseling, Philosophy, Nursing"
+  },
+  {
+    "prompt": "EQ Score: 47.1\nTrait Summary:\n- Self-Awareness: 2.71\n- Empathy: 2.0\nAge Group: 8-10",
+    "completion": "Interest Fields: Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 53.6\nTrait Summary:\n- Empathy: 2.5\n- Self-Awareness: 2.86\nAge Group: 8-10",
+    "completion": "Interest Fields: Writing, Nursing"
+  },
+  {
+    "prompt": "EQ Score: 55.0\nTrait Summary:\n- Empathy: 2.5\n- Self-Awareness: 3.0\nAge Group: 8-10",
+    "completion": "Interest Fields: Philosophy, Teaching"
+  },
+  {
+    "prompt": "EQ Score: 59.3\nTrait Summary:\n- Self-Awareness: 2.43\n- Empathy: 3.5\nAge Group: 8-10",
+    "completion": "Interest Fields: Nursing, Counseling"
+  },
+  {
+    "prompt": "EQ Score: 57.1\nTrait Summary:\n- Empathy: 3.0\n- Self-Awareness: 2.71\nAge Group: 8-10",
+    "completion": "Interest Fields: Writing, Counseling"
+  },
+  {
+    "prompt": "EQ Score: 63.6\nTrait Summary:\n- Self-Awareness: 2.86\n- Empathy: 3.5\nAge Group: 8-10",
+    "completion": "Interest Fields: Counseling, Philosophy, Teaching"
+  },
+  {
+    "prompt": "EQ Score: 62.9\nTrait Summary:\n- Self-Awareness: 3.29\n- Empathy: 3.0\nAge Group: 8-10",
+    "completion": "Interest Fields: Counseling, Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 67.9\nTrait Summary:\n- Self-Awareness: 3.29\n- Empathy: 3.5\nAge Group: 8-10",
+    "completion": "Interest Fields: Counseling, Writing, Nursing"
+  },
+  {
+    "prompt": "EQ Score: 61.4\nTrait Summary:\n- Self-Awareness: 3.14\n- Empathy: 3.0\nAge Group: 8-10",
+    "completion": "Interest Fields: Writing, Nursing"
+  },
+  {
+    "prompt": "EQ Score: 51.4\nTrait Summary:\n- Self-Awareness: 3.14\n- Empathy: 2.0\nAge Group: 8-10",
+    "completion": "Interest Fields: Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 61.4\nTrait Summary:\n- Self-Awareness: 3.14\n- Empathy: 3.0\nAge Group: 8-10",
+    "completion": "Interest Fields: Teaching, Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 59.3\nTrait Summary:\n- Self-Awareness: 2.43\n- Empathy: 3.5\nAge Group: 8-10",
+    "completion": "Interest Fields: Counseling, Teaching"
+  },
+  {
+    "prompt": "EQ Score: 48.6\nTrait Summary:\n- Empathy: 2.0\n- Self-Awareness: 2.86\nAge Group: 8-10",
+    "completion": "Interest Fields: Journaling"
+  },
+  {
+    "prompt": "EQ Score: 52.1\nTrait Summary:\n- Self-Awareness: 2.71\n- Empathy: 2.5\nAge Group: 8-10",
+    "completion": "Interest Fields: Counseling, Writing"
+  },
+  {
+    "prompt": "EQ Score: 62.9\nTrait Summary:\n- Self-Awareness: 3.29\n- Empathy: 3.0\nAge Group: 8-10",
+    "completion": "Interest Fields: Writing, Counseling"
+  },
+  {
+    "prompt": "EQ Score: 55.7\nTrait Summary:\n- Self-Awareness: 2.57\n- Empathy: 3.0\nAge Group: 8-10",
+    "completion": "Interest Fields: Nursing, Journaling"
+  },
+  {
+    "prompt": "EQ Score: 42.1\nTrait Summary:\n- Empathy: 1.5\n- Self-Awareness: 2.71\nAge Group: 8-10",
+    "completion": "Interest Fields: Journaling"
+  },
+  {
+    "prompt": "EQ Score: 49.3\nTrait Summary:\n- Self-Awareness: 2.43\n- Empathy: 2.5\nAge Group: 8-10",
+    "completion": "Interest Fields: Counseling"
+  },
+  {
+    "prompt": "EQ Score: 62.9\nTrait Summary:\n- Self-Awareness: 3.29\n- Empathy: 3.0\nAge Group: 8-10",
+    "completion": "Interest Fields: Journaling, Teaching"
+  },
+  {
+    "prompt": "EQ Score: 52.9\nTrait Summary:\n- Self-Awareness: 3.29\n- Empathy: 2.0\nAge Group: 8-10",
+    "completion": "Interest Fields: Writing"
+  },
+  {
+    "prompt": "EQ Score: 54.3\nTrait Summary:\n- Self-Awareness: 2.43\n- Empathy: 3.0\nAge Group: 8-10",
+    "completion": "Interest Fields: Nursing"
+  },
+  {
+    "prompt": "EQ Score: 48.6\nTrait Summary:\n- Self-Awareness: 2.86\n- Empathy: 2.0\nAge Group: 8-10",
+    "completion": "Interest Fields: Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 66.4\nTrait Summary:\n- Self-Awareness: 3.14\n- Empathy: 3.5\nAge Group: 8-10",
+    "completion": "Interest Fields: Teaching, Nursing, Writing"
+  },
+  {
+    "prompt": "EQ Score: 56.4\nTrait Summary:\n- Self-Awareness: 3.14\n- Empathy: 2.5\nAge Group: 8-10",
+    "completion": "Interest Fields: Nursing, Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 55.0\nTrait Summary:\n- Self-Awareness: 3.0\n- Empathy: 2.5\nAge Group: 8-10",
+    "completion": "Interest Fields: Teaching, Writing"
+  },
+  {
+    "prompt": "EQ Score: 63.6\nTrait Summary:\n- Empathy: 3.5\n- Self-Awareness: 2.86\nAge Group: 8-10",
+    "completion": "Interest Fields: Writing, Teaching, Counseling"
+  },
+  {
+    "prompt": "EQ Score: 51.4\nTrait Summary:\n- Empathy: 2.0\n- Self-Awareness: 3.14\nAge Group: 8-10",
+    "completion": "Interest Fields: Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 50.0\nTrait Summary:\n- Self-Awareness: 3.0\n- Empathy: 2.0\nAge Group: 8-10",
+    "completion": "Interest Fields: Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 69.3\nTrait Summary:\n- Self-Awareness: 3.43\n- Empathy: 3.5\nAge Group: 8-10",
+    "completion": "Interest Fields: Teaching, Counseling, Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 62.9\nTrait Summary:\n- Self-Awareness: 2.29\n- Empathy: 4.0\nAge Group: 8-10",
+    "completion": "Interest Fields: Teaching, Nursing"
+  },
+  {
+    "prompt": "EQ Score: 65.7\nTrait Summary:\n- Self-Awareness: 3.57\n- Empathy: 3.0\nAge Group: 8-10",
+    "completion": "Interest Fields: Writing, Nursing, Journaling"
+  },
+  {
+    "prompt": "EQ Score: 62.1\nTrait Summary:\n- Empathy: 2.5\n- Self-Awareness: 3.71\nAge Group: 8-10",
+    "completion": "Interest Fields: Philosophy, Counseling, Writing"
+  },
+  {
+    "prompt": "EQ Score: 67.9\nTrait Summary:\n- Empathy: 3.5\n- Self-Awareness: 3.29\nAge Group: 8-10",
+    "completion": "Interest Fields: Counseling, Teaching, Writing"
+  },
+  {
+    "prompt": "EQ Score: 47.1\nTrait Summary:\n- Self-Awareness: 2.71\n- Empathy: 2.0\nAge Group: 8-10",
+    "completion": "Interest Fields: Writing"
+  },
+  {
+    "prompt": "EQ Score: 65.0\nTrait Summary:\n- Self-Awareness: 3.0\n- Empathy: 3.5\nAge Group: 8-10",
+    "completion": "Interest Fields: Counseling, Nursing, Writing"
+  },
+  {
+    "prompt": "EQ Score: 63.6\nTrait Summary:\n- Self-Awareness: 2.86\n- Empathy: 3.5\nAge Group: 8-10",
+    "completion": "Interest Fields: Nursing, Writing, Teaching"
+  },
+  {
+    "prompt": "EQ Score: 55.0\nTrait Summary:\n- Self-Awareness: 3.0\n- Empathy: 2.5\nAge Group: 8-10",
+    "completion": "Interest Fields: Nursing, Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 60.0\nTrait Summary:\n- Self-Awareness: 3.0\n- Empathy: 3.0\nAge Group: 8-10",
+    "completion": "Interest Fields: Philosophy, Teaching"
+  },
+  {
+    "prompt": "EQ Score: 68.6\nTrait Summary:\n- Self-Awareness: 2.86\n- Empathy: 4.0\nAge Group: 8-10",
+    "completion": "Interest Fields: Teaching, Philosophy, Nursing"
+  },
+  {
+    "prompt": "EQ Score: 63.6\nTrait Summary:\n- Self-Awareness: 2.86\n- Empathy: 3.5\nAge Group: 8-10",
+    "completion": "Interest Fields: Journaling, Nursing, Teaching"
+  },
+  {
+    "prompt": "EQ Score: 61.4\nTrait Summary:\n- Self-Awareness: 3.14\n- Empathy: 3.0\nAge Group: 8-10",
+    "completion": "Interest Fields: Counseling, Writing"
+  },
+  {
+    "prompt": "EQ Score: 58.6\nTrait Summary:\n- Self-Awareness: 2.86\n- Empathy: 3.0\nAge Group: 8-10",
+    "completion": "Interest Fields: Nursing, Journaling"
+  },
+  {
+    "prompt": "EQ Score: 59.3\nTrait Summary:\n- Empathy: 2.5\n- Self-Awareness: 3.43\nAge Group: 8-10",
+    "completion": "Interest Fields: Teaching, Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 65.0\nTrait Summary:\n- Self-Awareness: 3.0\n- Empathy: 3.5\nAge Group: 8-10",
+    "completion": "Interest Fields: Nursing, Journaling, Counseling"
+  },
+  {
+    "prompt": "EQ Score: 53.6\nTrait Summary:\n- Empathy: 2.5\n- Self-Awareness: 2.86\nAge Group: 8-10",
+    "completion": "Interest Fields: Writing, Counseling"
+  },
+  {
+    "prompt": "EQ Score: 50.7\nTrait Summary:\n- Self-Awareness: 2.57\n- Empathy: 2.5\nAge Group: 8-10",
+    "completion": "Interest Fields: Teaching, Journaling"
+  },
+  {
+    "prompt": "EQ Score: 47.1\nTrait Summary:\n- Empathy: 2.0\n- Self-Awareness: 2.71\nAge Group: 8-10",
+    "completion": "Interest Fields: Journaling"
+  },
+  {
+    "prompt": "EQ Score: 48.6\nTrait Summary:\n- Self-Awareness: 2.86\n- Empathy: 2.0\nAge Group: 8-10",
+    "completion": "Interest Fields: Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 57.9\nTrait Summary:\n- Self-Awareness: 3.29\n- Empathy: 2.5\nAge Group: 8-10",
+    "completion": "Interest Fields: Teaching, Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 66.4\nTrait Summary:\n- Self-Awareness: 3.14\n- Empathy: 3.5\nAge Group: 8-10",
+    "completion": "Interest Fields: Writing, Teaching, Counseling"
+  },
+  {
+    "prompt": "EQ Score: 55.7\nTrait Summary:\n- Self-Awareness: 2.57\n- Empathy: 3.0\nAge Group: 8-10",
+    "completion": "Interest Fields: Counseling, Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 43.6\nTrait Summary:\n- Self-Awareness: 2.86\n- Empathy: 1.5\nAge Group: 8-10",
+    "completion": "Interest Fields: Writing"
+  },
+  {
+    "prompt": "EQ Score: 49.3\nTrait Summary:\n- Self-Awareness: 3.43\n- Empathy: 1.5\nAge Group: 8-10",
+    "completion": "Interest Fields: Journaling"
+  },
+  {
+    "prompt": "EQ Score: 67.9\nTrait Summary:\n- Self-Awareness: 3.29\n- Empathy: 3.5\nAge Group: 8-10",
+    "completion": "Interest Fields: Counseling, Philosophy, Nursing"
+  },
+  {
+    "prompt": "EQ Score: 63.6\nTrait Summary:\n- Self-Awareness: 2.86\n- Empathy: 3.5\nAge Group: 8-10",
+    "completion": "Interest Fields: Writing, Teaching, Counseling"
+  },
+  {
+    "prompt": "EQ Score: 58.6\nTrait Summary:\n- Self-Awareness: 2.86\n- Empathy: 3.0\nAge Group: 8-10",
+    "completion": "Interest Fields: Philosophy, Nursing"
+  },
+  {
+    "prompt": "EQ Score: 60.0\nTrait Summary:\n- Self-Awareness: 3.0\n- Empathy: 3.0\nAge Group: 8-10",
+    "completion": "Interest Fields: Philosophy, Teaching"
+  },
+  {
+    "prompt": "EQ Score: 57.9\nTrait Summary:\n- Self-Awareness: 3.29\n- Empathy: 2.5\nAge Group: 8-10",
+    "completion": "Interest Fields: Nursing, Journaling"
+  },
+  {
+    "prompt": "EQ Score: 55.0\nTrait Summary:\n- Empathy: 2.5\n- Self-Awareness: 3.0\nAge Group: 8-10",
+    "completion": "Interest Fields: Journaling, Teaching"
+  },
+  {
+    "prompt": "EQ Score: 47.1\nTrait Summary:\n- Self-Awareness: 2.71\n- Empathy: 2.0\nAge Group: 8-10",
+    "completion": "Interest Fields: Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 47.1\nTrait Summary:\n- Empathy: 2.0\n- Self-Awareness: 2.71\nAge Group: 8-10",
+    "completion": "Interest Fields: Writing"
+  },
+  {
+    "prompt": "EQ Score: 57.9\nTrait Summary:\n- Self-Awareness: 3.29\n- Empathy: 2.5\nAge Group: 8-10",
+    "completion": "Interest Fields: Writing, Teaching"
+  },
+  {
+    "prompt": "EQ Score: 55.0\nTrait Summary:\n- Self-Awareness: 3.0\n- Empathy: 2.5\nAge Group: 8-10",
+    "completion": "Interest Fields: Teaching, Writing"
+  },
+  {
+    "prompt": "EQ Score: 50.0\nTrait Summary:\n- Self-Awareness: 3.0\n- Empathy: 2.0\nAge Group: 8-10",
+    "completion": "Interest Fields: Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 55.0\nTrait Summary:\n- Self-Awareness: 3.0\n- Empathy: 2.5\nAge Group: 8-10",
+    "completion": "Interest Fields: Nursing, Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 44.3\nTrait Summary:\n- Self-Awareness: 2.43\n- Empathy: 2.0\nAge Group: 8-10",
+    "completion": "Interest Fields:"
+  },
+  {
+    "prompt": "EQ Score: 59.3\nTrait Summary:\n- Self-Awareness: 3.43\n- Empathy: 2.5\nAge Group: 8-10",
+    "completion": "Interest Fields: Teaching, Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 55.0\nTrait Summary:\n- Self-Awareness: 3.0\n- Empathy: 2.5\nAge Group: 8-10",
+    "completion": "Interest Fields: Counseling, Writing"
+  },
+  {
+    "prompt": "EQ Score: 70.0\nTrait Summary:\n- Self-Awareness: 3.0\n- Empathy: 4.0\nAge Group: 8-10",
+    "completion": "Interest Fields: Nursing, Writing, Counseling"
+  },
+  {
+    "prompt": "EQ Score: 63.6\nTrait Summary:\n- Self-Awareness: 2.86\n- Empathy: 3.5\nAge Group: 8-10",
+    "completion": "Interest Fields: Writing, Teaching, Counseling"
+  },
+  {
+    "prompt": "EQ Score: 49.3\nTrait Summary:\n- Self-Awareness: 3.43\n- Empathy: 1.5\nAge Group: 8-10",
+    "completion": "Interest Fields: Writing"
+  },
+  {
+    "prompt": "EQ Score: 66.4\nTrait Summary:\n- Self-Awareness: 3.14\n- Empathy: 3.5\nAge Group: 8-10",
+    "completion": "Interest Fields: Nursing, Counseling, Writing"
+  },
+  {
+    "prompt": "EQ Score: 54.3\nTrait Summary:\n- Self-Awareness: 3.43\n- Empathy: 2.0\nAge Group: 8-10",
+    "completion": "Interest Fields: Writing"
+  },
+  {
+    "prompt": "EQ Score: 50.0\nTrait Summary:\n- Self-Awareness: 3.0\n- Empathy: 2.0\nAge Group: 8-10",
+    "completion": "Interest Fields: Journaling"
+  },
+  {
+    "prompt": "EQ Score: 55.0\nTrait Summary:\n- Self-Awareness: 3.0\n- Empathy: 2.5\nAge Group: 8-10",
+    "completion": "Interest Fields: Philosophy, Teaching"
+  },
+  {
+    "prompt": "EQ Score: 45.0\nTrait Summary:\n- Self-Awareness: 3.0\n- Empathy: 1.5\nAge Group: 8-10",
+    "completion": "Interest Fields: Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 56.4\nTrait Summary:\n- Self-Awareness: 3.14\n- Empathy: 2.5\nAge Group: 8-10",
+    "completion": "Interest Fields: Journaling, Teaching"
+  },
+  {
+    "prompt": "EQ Score: 50.7\nTrait Summary:\n- Empathy: 2.5\n- Self-Awareness: 2.57\nAge Group: 8-10",
+    "completion": "Interest Fields: Counseling, Journaling"
+  },
+  {
+    "prompt": "EQ Score: 45.7\nTrait Summary:\n- Self-Awareness: 2.57\n- Empathy: 2.0\nAge Group: 8-10",
+    "completion": "Interest Fields: Journaling"
+  },
+  {
+    "prompt": "EQ Score: 72.9\nTrait Summary:\n- Self-Awareness: 3.29\n- Empathy: 4.0\nAge Group: 8-10",
+    "completion": "Interest Fields: Counseling, Writing, Nursing"
+  },
+  {
+    "prompt": "EQ Score: 56.4\nTrait Summary:\n- Self-Awareness: 3.14\n- Empathy: 2.5\nAge Group: 8-10",
+    "completion": "Interest Fields: Nursing, Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 61.4\nTrait Summary:\n- Empathy: 3.0\n- Self-Awareness: 3.14\nAge Group: 8-10",
+    "completion": "Interest Fields: Journaling, Teaching"
+  },
+  {
+    "prompt": "EQ Score: 67.9\nTrait Summary:\n- Self-Awareness: 3.29\n- Empathy: 3.5\nAge Group: 8-10",
+    "completion": "Interest Fields: Journaling, Nursing, Counseling"
+  },
+  {
+    "prompt": "EQ Score: 65.0\nTrait Summary:\n- Empathy: 3.5\n- Self-Awareness: 3.0\nAge Group: 8-10",
+    "completion": "Interest Fields: Teaching, Philosophy, Counseling"
+  },
+  {
+    "prompt": "EQ Score: 58.6\nTrait Summary:\n- Self-Awareness: 2.86\n- Empathy: 3.0\nAge Group: 8-10",
+    "completion": "Interest Fields: Counseling, Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 65.7\nTrait Summary:\n- Empathy: 3.0\n- Self-Awareness: 3.57\nAge Group: 8-10",
+    "completion": "Interest Fields: Teaching, Writing, Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 50.7\nTrait Summary:\n- Self-Awareness: 2.57\n- Empathy: 2.5\nAge Group: 8-10",
+    "completion": "Interest Fields: Counseling, Writing"
+  },
+  {
+    "prompt": "EQ Score: 49.3\nTrait Summary:\n- Empathy: 2.5\n- Self-Awareness: 2.43\nAge Group: 8-10",
+    "completion": "Interest Fields: Counseling"
+  },
+  {
+    "prompt": "EQ Score: 65.7\nTrait Summary:\n- Self-Awareness: 3.57\n- Empathy: 3.0\nAge Group: 8-10",
+    "completion": "Interest Fields: Counseling, Journaling, Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 54.3\nTrait Summary:\n- Self-Awareness: 2.43\n- Empathy: 3.0\nAge Group: 8-10",
+    "completion": "Interest Fields: Counseling"
+  },
+  {
+    "prompt": "EQ Score: 53.6\nTrait Summary:\n- Self-Awareness: 2.86\n- Empathy: 2.5\nAge Group: 8-10",
+    "completion": "Interest Fields: Journaling, Counseling"
+  },
+  {
+    "prompt": "EQ Score: 54.3\nTrait Summary:\n- Self-Awareness: 2.43\n- Empathy: 3.0\nAge Group: 8-10",
+    "completion": "Interest Fields: Teaching"
+  },
+  {
+    "prompt": "EQ Score: 56.4\nTrait Summary:\n- Self-Awareness: 3.14\n- Empathy: 2.5\nAge Group: 8-10",
+    "completion": "Interest Fields: Nursing, Philosophy"
+  },
+  {
+    "prompt": "EQ Score: 69.3\nTrait Summary:\n- Self-Awareness: 3.43\n- Empathy: 3.5\nAge Group: 8-10",
+    "completion": "Interest Fields: Nursing, Philosophy, Counseling"
+  },
+  {
+    "prompt": "EQ Score: 53.6\nTrait Summary:\n- Self-Awareness: 2.86\n- Empathy: 2.5\nAge Group: 8-10",
+    "completion": "Interest Fields: Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 62.0\nTrait Summary:\n- Empathy (Score: 2.8): No description available.\n- Self-Awareness (Score: 3.5): No description available.\n- Motivation (Score: 3.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Entrepreneurship, Journaling, Public Speaking, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 51.4\nTrait Summary:\n- Self-Awareness (Score: 3.14): No description available.\n- Empathy (Score: 2.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 56.67\nTrait Summary:\n- Empathy (Score: 2.75): No description available.\n- Social Skills (Score: 2.5): No description available.\n- Self-Awareness (Score: 3.25): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 65.53\nTrait Summary:\n- Self-Awareness (Score: 3.33): No description available.\n- Motivation (Score: 3.0): No description available.\n- Empathy (Score: 3.5): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Entrepreneurship, Journaling, Public Speaking, Teaching"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 57.8\nTrait Summary:\n- Self-Awareness (Score: 2.67): No description available.\n- Empathy (Score: 2.0): No description available.\n- Social Skills (Score: 4.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Event Hosting, Teaching, Team Sports, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 55.0\nTrait Summary:\n- Self-Awareness (Score: 2.5): No description available.\n- Empathy (Score: 2.5): No description available.\n- Motivation (Score: 4.0): No description available.\n- Social Skills (Score: 2.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Entrepreneurship, Public Speaking, Science Projects, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 60.0\nTrait Summary:\n- Empathy (Score: 3.0): No description available.\n- Self-Awareness (Score: 3.5): No description available.\n- Motivation (Score: 2.5): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Entrepreneurship, Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 65.87\nTrait Summary:\n- Social Skills (Score: 4.0): No description available.\n- Self-Awareness (Score: 2.88): No description available.\n- Empathy (Score: 3.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Event Hosting, Teaching, Team Sports"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 68.0\nTrait Summary:\n- Empathy (Score: 3.0): No description available.\n- Self-Awareness (Score: 3.8): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 64.13\nTrait Summary:\n- Self-Awareness (Score: 2.62): No description available.\n- Empathy (Score: 3.0): No description available.\n- Motivation (Score: 4.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Entrepreneurship, Public Speaking, Science Projects, Teaching"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 58.3\nTrait Summary:\n- Empathy (Score: 3.5): No description available.\n- Self-Awareness (Score: 2.33): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 60.4\nTrait Summary:\n- Self-Awareness (Score: 2.71): No description available.\n- Empathy (Score: 3.33): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 55.8\nTrait Summary:\n- Self-Awareness (Score: 2.83): No description available.\n- Empathy (Score: 2.75): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 61.7\nTrait Summary:\n- Self-Awareness (Score: 3.17): No description available.\n- Empathy (Score: 3.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 51.0\nTrait Summary:\n- Self-Awareness (Score: 3.25): No description available.\n- Motivation (Score: 2.0): No description available.\n- Empathy (Score: 2.4): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Entrepreneurship, Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 67.0\nTrait Summary:\n- Self-Awareness (Score: 4.0): No description available.\n- Empathy (Score: 2.4): No description available.\n- Motivation (Score: 3.0): No description available.\n- Social Skills (Score: 4.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Entrepreneurship, Event Hosting, Journaling, Philosophy"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 62.2\nTrait Summary:\n- Empathy (Score: 3.0): No description available.\n- Motivation (Score: 3.0): No description available.\n- Self-Awareness (Score: 3.33): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Entrepreneurship, Journaling, Public Speaking, Teaching"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 60.0\nTrait Summary:\n- Self-Awareness (Score: 3.5): No description available.\n- Social Skills (Score: 3.0): No description available.\n- Empathy (Score: 3.5): No description available.\n- Motivation (Score: 2.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Journaling, Teaching, Team Sports"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 57.5\nTrait Summary:\n- Empathy (Score: 3.25): No description available.\n- Self-Awareness (Score: 2.5): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 66.33\nTrait Summary:\n- Self-Awareness (Score: 2.75): No description available.\n- Empathy (Score: 3.2): No description available.\n- Social Skills (Score: 4.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Event Hosting, Teaching, Team Sports"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 71.33\nTrait Summary:\n- Empathy (Score: 3.5): No description available.\n- Self-Awareness (Score: 3.2): No description available.\n- Motivation (Score: 4.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Entrepreneurship, Journaling, Public Speaking, Science Projects"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 46.33\nTrait Summary:\n- Self-Awareness (Score: 2.2): No description available.\n- Social Skills (Score: 2.0): No description available.\n- Empathy (Score: 2.75): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 70.0\nTrait Summary:\n- Empathy (Score: 4.0): No description available.\n- Self-Awareness (Score: 2.5): No description available.\n- Social Skills (Score: 4.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Event Hosting, Storytelling, Teaching"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 67.5\nTrait Summary:\n- Self-Awareness (Score: 3.25): No description available.\n- Empathy (Score: 3.25): No description available.\n- Social Skills (Score: 4.0): No description available.\n- Motivation (Score: 3.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Event Hosting, Journaling, Teaching"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 61.65\nTrait Summary:\n- Self-Awareness (Score: 3.33): No description available.\n- Motivation (Score: 2.0): No description available.\n- Empathy (Score: 3.0): No description available.\n- Social Skills (Score: 4.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Event Hosting, Journaling, Teaching"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 66.2\nTrait Summary:\n- Self-Awareness (Score: 3.12): No description available.\n- Empathy (Score: 3.5): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 63.33\nTrait Summary:\n- Empathy (Score: 2.0): No description available.\n- Self-Awareness (Score: 3.5): No description available.\n- Motivation (Score: 4.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Entrepreneurship, Journaling, Public Speaking, Science Projects, Teaching"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 62.5\nTrait Summary:\n- Self-Awareness (Score: 2.5): No description available.\n- Empathy (Score: 3.75): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 62.5\nTrait Summary:\n- Self-Awareness (Score: 3.25): No description available.\n- Empathy (Score: 3.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 60.0\nTrait Summary:\n- Empathy (Score: 2.6): No description available.\n- Self-Awareness (Score: 3.4): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 66.7\nTrait Summary:\n- Empathy (Score: 4.0): No description available.\n- Self-Awareness (Score: 2.67): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Storytelling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 52.0\nTrait Summary:\n- Self-Awareness (Score: 2.6): No description available.\n- Empathy (Score: 2.6): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 70.0\nTrait Summary:\n- Empathy (Score: 4.0): No description available.\n- Self-Awareness (Score: 3.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Journaling, Storytelling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 67.5\nTrait Summary:\n- Self-Awareness (Score: 3.0): No description available.\n- Empathy (Score: 3.75): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 66.65\nTrait Summary:\n- Social Skills (Score: 4.0): No description available.\n- Self-Awareness (Score: 3.33): No description available.\n- Empathy (Score: 3.0): No description available.\n- Motivation (Score: 3.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Event Hosting, Journaling, Teaching"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 60.0\nTrait Summary:\n- Self-Awareness (Score: 2.5): No description available.\n- Empathy (Score: 3.5): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 50.0\nTrait Summary:\n- Self-Awareness (Score: 2.4): No description available.\n- Empathy (Score: 2.6): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 64.47\nTrait Summary:\n- Self-Awareness (Score: 3.0): No description available.\n- Empathy (Score: 2.67): No description available.\n- Social Skills (Score: 4.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Event Hosting, Journaling, Teaching, Team Sports"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 70.8\nTrait Summary:\n- Self-Awareness (Score: 3.33): No description available.\n- Empathy (Score: 3.75): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 53.3\nTrait Summary:\n- Self-Awareness (Score: 2.83): No description available.\n- Empathy (Score: 2.5): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 55.3\nTrait Summary:\n- Empathy (Score: 2.67): No description available.\n- Self-Awareness (Score: 2.86): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 71.13\nTrait Summary:\n- Empathy (Score: 3.67): No description available.\n- Self-Awareness (Score: 3.0): No description available.\n- Motivation (Score: 4.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Entrepreneurship, Journaling, Public Speaking, Science Projects"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 65.8\nTrait Summary:\n- Self-Awareness (Score: 2.83): No description available.\n- Empathy (Score: 3.75): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 57.6\nTrait Summary:\n- Self-Awareness (Score: 3.43): No description available.\n- Empathy (Score: 2.33): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 41.0\nTrait Summary:\n- Empathy (Score: 1.67): No description available.\n- Self-Awareness (Score: 2.43): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 50.93\nTrait Summary:\n- Motivation (Score: 2.0): No description available.\n- Self-Awareness (Score: 2.5): No description available.\n- Empathy (Score: 3.14): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Entrepreneurship, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 67.0\nTrait Summary:\n- Self-Awareness (Score: 3.25): No description available.\n- Empathy (Score: 2.8): No description available.\n- Motivation (Score: 4.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Entrepreneurship, Journaling, Public Speaking, Science Projects, Teaching"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 61.67\nTrait Summary:\n- Empathy (Score: 3.25): No description available.\n- Self-Awareness (Score: 3.0): No description available.\n- Motivation (Score: 3.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Entrepreneurship, Journaling, Public Speaking, Teaching"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 47.13\nTrait Summary:\n- Self-Awareness (Score: 3.57): No description available.\n- Motivation (Score: 2.0): No description available.\n- Empathy (Score: 1.5): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Entrepreneurship, Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 49.2\nTrait Summary:\n- Empathy (Score: 2.25): No description available.\n- Self-Awareness (Score: 2.67): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 52.4\nTrait Summary:\n- Empathy (Score: 2.67): No description available.\n- Self-Awareness (Score: 2.57): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 71.2\nTrait Summary:\n- Self-Awareness (Score: 3.12): No description available.\n- Empathy (Score: 4.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Journaling, Storytelling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 66.65\nTrait Summary:\n- Self-Awareness (Score: 3.33): No description available.\n- Empathy (Score: 3.0): No description available.\n- Social Skills (Score: 3.0): No description available.\n- Motivation (Score: 4.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Entrepreneurship, Journaling, Public Speaking, Science Projects"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 57.5\nTrait Summary:\n- Self-Awareness (Score: 3.0): No description available.\n- Empathy (Score: 2.5): No description available.\n- Social Skills (Score: 2.0): No description available.\n- Motivation (Score: 4.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Entrepreneurship, Journaling, Public Speaking, Science Projects, Teaching"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 62.0\nTrait Summary:\n- Self-Awareness (Score: 2.6): No description available.\n- Empathy (Score: 3.6): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 67.5\nTrait Summary:\n- Empathy (Score: 3.5): No description available.\n- Self-Awareness (Score: 3.25): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 64.0\nTrait Summary:\n- Empathy (Score: 3.2): No description available.\n- Self-Awareness (Score: 3.2): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 55.67\nTrait Summary:\n- Social Skills (Score: 3.0): No description available.\n- Empathy (Score: 2.6): No description available.\n- Self-Awareness (Score: 2.75): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Teaching, Team Sports, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 75.85\nTrait Summary:\n- Motivation (Score: 4.0): No description available.\n- Self-Awareness (Score: 3.17): No description available.\n- Empathy (Score: 4.0): No description available.\n- Social Skills (Score: 4.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Entrepreneurship, Event Hosting, Public Speaking"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 51.13\nTrait Summary:\n- Self-Awareness (Score: 2.17): No description available.\n- Motivation (Score: 3.0): No description available.\n- Empathy (Score: 2.5): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Entrepreneurship, Public Speaking, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 52.27\nTrait Summary:\n- Motivation (Score: 3.0): No description available.\n- Self-Awareness (Score: 2.17): No description available.\n- Empathy (Score: 2.67): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Entrepreneurship, Public Speaking, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 61.07\nTrait Summary:\n- Self-Awareness (Score: 2.33): No description available.\n- Empathy (Score: 2.83): No description available.\n- Social Skills (Score: 4.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Event Hosting, Teaching, Team Sports, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 69.15\nTrait Summary:\n- Self-Awareness (Score: 3.33): No description available.\n- Social Skills (Score: 4.0): No description available.\n- Motivation (Score: 3.0): No description available.\n- Empathy (Score: 3.5): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Event Hosting, Journaling, Teaching"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 59.67\nTrait Summary:\n- Empathy (Score: 3.2): No description available.\n- Self-Awareness (Score: 2.75): No description available.\n- Social Skills (Score: 3.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Teaching, Team Sports, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 60.0\nTrait Summary:\n- Empathy (Score: 3.33): No description available.\n- Self-Awareness (Score: 3.67): No description available.\n- Social Skills (Score: 2.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 59.07\nTrait Summary:\n- Self-Awareness (Score: 2.86): No description available.\n- Social Skills (Score: 3.0): No description available.\n- Empathy (Score: 3.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Teaching, Team Sports, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 76.0\nTrait Summary:\n- Empathy (Score: 3.6): No description available.\n- Self-Awareness (Score: 4.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Journaling, Philosophy, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 66.0\nTrait Summary:\n- Self-Awareness (Score: 2.8): No description available.\n- Empathy (Score: 3.8): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 57.5\nTrait Summary:\n- Empathy (Score: 3.25): No description available.\n- Self-Awareness (Score: 2.5): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 51.93\nTrait Summary:\n- Self-Awareness (Score: 3.29): No description available.\n- Empathy (Score: 2.5): No description available.\n- Motivation (Score: 2.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Entrepreneurship, Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 46.67\nTrait Summary:\n- Self-Awareness (Score: 2.75): No description available.\n- Empathy (Score: 2.25): No description available.\n- Social Skills (Score: 2.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 66.7\nTrait Summary:\n- Empathy (Score: 3.0): No description available.\n- Self-Awareness (Score: 3.67): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 60.0\nTrait Summary:\n- Self-Awareness (Score: 3.2): No description available.\n- Empathy (Score: 2.8): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 58.0\nTrait Summary:\n- Self-Awareness (Score: 3.0): No description available.\n- Empathy (Score: 2.8): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 67.5\nTrait Summary:\n- Empathy (Score: 3.0): No description available.\n- Self-Awareness (Score: 3.75): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 58.87\nTrait Summary:\n- Self-Awareness (Score: 3.5): No description available.\n- Empathy (Score: 3.33): No description available.\n- Motivation (Score: 2.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Entrepreneurship, Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 47.1\nTrait Summary:\n- Self-Awareness (Score: 2.71): No description available.\n- Empathy (Score: 2.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 68.33\nTrait Summary:\n- Empathy (Score: 3.25): No description available.\n- Social Skills (Score: 4.0): No description available.\n- Self-Awareness (Score: 3.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Event Hosting, Journaling, Teaching"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 52.33\nTrait Summary:\n- Empathy (Score: 2.6): No description available.\n- Self-Awareness (Score: 2.25): No description available.\n- Motivation (Score: 3.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Entrepreneurship, Public Speaking, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 61.13\nTrait Summary:\n- Empathy (Score: 3.0): No description available.\n- Social Skills (Score: 3.0): No description available.\n- Self-Awareness (Score: 3.17): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Journaling, Teaching, Team Sports"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 58.67\nTrait Summary:\n- Empathy (Score: 3.0): No description available.\n- Self-Awareness (Score: 2.8): No description available.\n- Social Skills (Score: 3.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Teaching, Team Sports, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 66.0\nTrait Summary:\n- Self-Awareness (Score: 3.4): No description available.\n- Empathy (Score: 3.0): No description available.\n- Motivation (Score: 3.5): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Entrepreneurship, Journaling, Public Speaking, Teaching"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 57.85\nTrait Summary:\n- Self-Awareness (Score: 2.57): No description available.\n- Empathy (Score: 3.0): No description available.\n- Social Skills (Score: 4.0): No description available.\n- Motivation (Score: 2.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Event Hosting, Teaching, Team Sports"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 55.0\nTrait Summary:\n- Empathy (Score: 2.5): No description available.\n- Self-Awareness (Score: 3.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 48.1\nTrait Summary:\n- Empathy (Score: 2.67): No description available.\n- Self-Awareness (Score: 2.14): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 50.0\nTrait Summary:\n- Empathy (Score: 2.33): No description available.\n- Self-Awareness (Score: 3.17): No description available.\n- Social Skills (Score: 2.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 63.0\nTrait Summary:\n- Self-Awareness (Score: 3.2): No description available.\n- Motivation (Score: 4.0): No description available.\n- Empathy (Score: 2.25): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Entrepreneurship, Journaling, Public Speaking, Science Projects, Teaching"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 52.0\nTrait Summary:\n- Empathy (Score: 2.2): No description available.\n- Self-Awareness (Score: 3.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 50.0\nTrait Summary:\n- Empathy (Score: 2.5): No description available.\n- Self-Awareness (Score: 2.5): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 54.33\nTrait Summary:\n- Motivation (Score: 3.0): No description available.\n- Self-Awareness (Score: 2.4): No description available.\n- Empathy (Score: 2.75): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Entrepreneurship, Public Speaking, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 70.93\nTrait Summary:\n- Social Skills (Score: 4.0): No description available.\n- Empathy (Score: 3.14): No description available.\n- Self-Awareness (Score: 3.5): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Event Hosting, Journaling, Teaching"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 50.0\nTrait Summary:\n- Self-Awareness (Score: 2.83): No description available.\n- Empathy (Score: 2.67): No description available.\n- Motivation (Score: 2.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Entrepreneurship, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 55.53\nTrait Summary:\n- Self-Awareness (Score: 2.33): No description available.\n- Empathy (Score: 3.0): No description available.\n- Social Skills (Score: 3.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Teaching, Team Sports, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 68.6\nTrait Summary:\n- Self-Awareness (Score: 2.86): No description available.\n- Empathy (Score: 4.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Storytelling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 53.33\nTrait Summary:\n- Social Skills (Score: 3.0): No description available.\n- Self-Awareness (Score: 3.0): No description available.\n- Empathy (Score: 2.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Journaling, Teaching, Team Sports, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 58.0\nTrait Summary:\n- Empathy (Score: 3.2): No description available.\n- Self-Awareness (Score: 2.6): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 60.93\nTrait Summary:\n- Self-Awareness (Score: 3.14): No description available.\n- Social Skills (Score: 2.0): No description available.\n- Empathy (Score: 4.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Journaling, Storytelling, Teaching"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 64.47\nTrait Summary:\n- Self-Awareness (Score: 2.67): No description available.\n- Empathy (Score: 3.0): No description available.\n- Motivation (Score: 4.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Entrepreneurship, Public Speaking, Science Projects, Teaching"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 53.33\nTrait Summary:\n- Empathy (Score: 3.33): No description available.\n- Self-Awareness (Score: 2.67): No description available.\n- Motivation (Score: 2.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Entrepreneurship, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 63.65\nTrait Summary:\n- Empathy (Score: 2.4): No description available.\n- Social Skills (Score: 4.0): No description available.\n- Motivation (Score: 3.0): No description available.\n- Self-Awareness (Score: 3.33): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Entrepreneurship, Event Hosting, Journaling, Public Speaking"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 51.2\nTrait Summary:\n- Self-Awareness (Score: 3.12): No description available.\n- Empathy (Score: 2.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 60.0\nTrait Summary:\n- Empathy (Score: 3.0): No description available.\n- Self-Awareness (Score: 3.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 75.67\nTrait Summary:\n- Empathy (Score: 3.6): No description available.\n- Self-Awareness (Score: 3.75): No description available.\n- Motivation (Score: 4.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Entrepreneurship, Journaling, Public Speaking, Science Projects"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 62.5\nTrait Summary:\n- Self-Awareness (Score: 3.25): No description available.\n- Motivation (Score: 3.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Entrepreneurship, Journaling, Public Speaking, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 60.0\nTrait Summary:\n- Self-Awareness (Score: 3.0): No description available.\n- Empathy (Score: 4.0): No description available.\n- Social Skills (Score: 2.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Journaling, Storytelling, Teaching"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 57.5\nTrait Summary:\n- Self-Awareness (Score: 3.5): No description available.\n- Empathy (Score: 2.25): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 58.33\nTrait Summary:\n- Self-Awareness (Score: 3.0): No description available.\n- Empathy (Score: 3.75): No description available.\n- Social Skills (Score: 2.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 66.67\nTrait Summary:\n- Self-Awareness (Score: 3.0): No description available.\n- Empathy (Score: 3.0): No description available.\n- Social Skills (Score: 4.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Event Hosting, Journaling, Teaching"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 64.3\nTrait Summary:\n- Self-Awareness (Score: 3.43): No description available.\n- Empathy (Score: 3.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 57.0\nTrait Summary:\n- Social Skills (Score: 3.0): No description available.\n- Self-Awareness (Score: 2.8): No description available.\n- Empathy (Score: 2.75): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Teaching, Team Sports, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 55.27\nTrait Summary:\n- Motivation (Score: 3.0): No description available.\n- Self-Awareness (Score: 3.29): No description available.\n- Empathy (Score: 2.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Entrepreneurship, Journaling, Public Speaking, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 48.0\nTrait Summary:\n- Self-Awareness (Score: 2.8): No description available.\n- Empathy (Score: 2.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 73.33\nTrait Summary:\n- Empathy (Score: 3.67): No description available.\n- Self-Awareness (Score: 3.33): No description available.\n- Social Skills (Score: 4.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Event Hosting, Journaling, Teaching"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 62.5\nTrait Summary:\n- Empathy (Score: 3.0): No description available.\n- Self-Awareness (Score: 3.25): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 54.0\nTrait Summary:\n- Empathy (Score: 2.4): No description available.\n- Self-Awareness (Score: 3.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 55.7\nTrait Summary:\n- Self-Awareness (Score: 2.14): No description available.\n- Social Skills (Score: 3.0): No description available.\n- Motivation (Score: 3.0): No description available.\n- Empathy (Score: 3.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Entrepreneurship, Public Speaking, Teaching"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 58.1\nTrait Summary:\n- Self-Awareness (Score: 3.14): No description available.\n- Empathy (Score: 2.67): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 65.53\nTrait Summary:\n- Self-Awareness (Score: 3.5): No description available.\n- Empathy (Score: 3.33): No description available.\n- Social Skills (Score: 3.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Journaling, Teaching, Team Sports"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 54.7\nTrait Summary:\n- Self-Awareness (Score: 3.14): No description available.\n- Empathy (Score: 2.33): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 53.8\nTrait Summary:\n- Self-Awareness (Score: 2.71): No description available.\n- Empathy (Score: 2.67): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 72.0\nTrait Summary:\n- Self-Awareness (Score: 3.8): No description available.\n- Empathy (Score: 3.4): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 64.47\nTrait Summary:\n- Self-Awareness (Score: 2.67): No description available.\n- Empathy (Score: 3.0): No description available.\n- Social Skills (Score: 4.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Event Hosting, Teaching, Team Sports"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 53.3\nTrait Summary:\n- Self-Awareness (Score: 3.0): No description available.\n- Empathy (Score: 2.33): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 46.2\nTrait Summary:\n- Self-Awareness (Score: 2.43): No description available.\n- Empathy (Score: 2.5): No description available.\n- Social Skills (Score: 2.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 66.0\nTrait Summary:\n- Self-Awareness (Score: 3.2): No description available.\n- Empathy (Score: 3.0): No description available.\n- Social Skills (Score: 3.0): No description available.\n- Motivation (Score: 4.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Entrepreneurship, Journaling, Public Speaking, Science Projects"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 51.25\nTrait Summary:\n- Social Skills (Score: 2.0): No description available.\n- Self-Awareness (Score: 3.25): No description available.\n- Empathy (Score: 3.0): No description available.\n- Motivation (Score: 2.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 50.0\nTrait Summary:\n- Empathy (Score: 2.5): No description available.\n- Social Skills (Score: 2.5): No description available.\n- Self-Awareness (Score: 3.0): No description available.\n- Motivation (Score: 2.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 69.2\nTrait Summary:\n- Empathy (Score: 3.75): No description available.\n- Self-Awareness (Score: 3.17): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 58.6\nTrait Summary:\n- Self-Awareness (Score: 3.29): No description available.\n- Empathy (Score: 2.5): No description available.\n- Social Skills (Score: 3.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Journaling, Teaching, Team Sports, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 67.5\nTrait Summary:\n- Empathy (Score: 3.25): No description available.\n- Self-Awareness (Score: 3.5): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 66.25\nTrait Summary:\n- Empathy (Score: 3.25): No description available.\n- Self-Awareness (Score: 3.0): No description available.\n- Social Skills (Score: 3.0): No description available.\n- Motivation (Score: 4.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Entrepreneurship, Journaling, Public Speaking, Science Projects"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 65.8\nTrait Summary:\n- Empathy (Score: 3.33): No description available.\n- Self-Awareness (Score: 3.25): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 73.75\nTrait Summary:\n- Motivation (Score: 4.0): No description available.\n- Empathy (Score: 3.0): No description available.\n- Self-Awareness (Score: 3.75): No description available.\n- Social Skills (Score: 4.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Entrepreneurship, Event Hosting, Journaling, Public Speaking"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 53.33\nTrait Summary:\n- Self-Awareness (Score: 3.0): No description available.\n- Empathy (Score: 3.0): No description available.\n- Social Skills (Score: 2.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 54.7\nTrait Summary:\n- Self-Awareness (Score: 3.14): No description available.\n- Empathy (Score: 2.33): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 64.7\nTrait Summary:\n- Empathy (Score: 3.14): No description available.\n- Self-Awareness (Score: 3.33): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 62.87\nTrait Summary:\n- Self-Awareness (Score: 3.43): No description available.\n- Empathy (Score: 3.0): No description available.\n- Social Skills (Score: 3.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Journaling, Teaching, Team Sports"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 64.47\nTrait Summary:\n- Self-Awareness (Score: 3.67): No description available.\n- Empathy (Score: 2.0): No description available.\n- Social Skills (Score: 4.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Event Hosting, Journaling, Teaching, Team Sports"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 56.67\nTrait Summary:\n- Empathy (Score: 2.5): No description available.\n- Self-Awareness (Score: 3.0): No description available.\n- Motivation (Score: 3.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Entrepreneurship, Journaling, Public Speaking, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 54.67\nTrait Summary:\n- Empathy (Score: 3.0): No description available.\n- Self-Awareness (Score: 3.2): No description available.\n- Social Skills (Score: 2.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 65.3\nTrait Summary:\n- Self-Awareness (Score: 2.86): No description available.\n- Empathy (Score: 3.67): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 67.8\nTrait Summary:\n- Empathy (Score: 3.0): No description available.\n- Self-Awareness (Score: 3.17): No description available.\n- Motivation (Score: 4.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Entrepreneurship, Journaling, Public Speaking, Science Projects"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 68.8\nTrait Summary:\n- Self-Awareness (Score: 3.38): No description available.\n- Empathy (Score: 3.5): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 53.3\nTrait Summary:\n- Empathy (Score: 2.5): No description available.\n- Self-Awareness (Score: 2.83): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 56.65\nTrait Summary:\n- Motivation (Score: 3.0): No description available.\n- Social Skills (Score: 3.0): No description available.\n- Self-Awareness (Score: 3.0): No description available.\n- Empathy (Score: 2.33): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Entrepreneurship, Journaling, Public Speaking, Team Sports"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 62.5\nTrait Summary:\n- Self-Awareness (Score: 3.5): No description available.\n- Empathy (Score: 3.0): No description available.\n- Social Skills (Score: 4.0): No description available.\n- Motivation (Score: 2.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Event Hosting, Journaling, Teaching"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 58.0\nTrait Summary:\n- Self-Awareness (Score: 3.2): No description available.\n- Motivation (Score: 3.0): No description available.\n- Empathy (Score: 2.5): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Entrepreneurship, Journaling, Public Speaking, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 64.65\nTrait Summary:\n- Empathy (Score: 3.6): No description available.\n- Motivation (Score: 4.0): No description available.\n- Social Skills (Score: 2.0): No description available.\n- Self-Awareness (Score: 3.33): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Entrepreneurship, Journaling, Public Speaking, Science Projects"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 63.33\nTrait Summary:\n- Self-Awareness (Score: 2.5): No description available.\n- Empathy (Score: 3.0): No description available.\n- Motivation (Score: 4.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Entrepreneurship, Public Speaking, Science Projects, Teaching"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 64.0\nTrait Summary:\n- Empathy (Score: 3.4): No description available.\n- Self-Awareness (Score: 3.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 63.33\nTrait Summary:\n- Self-Awareness (Score: 2.5): No description available.\n- Social Skills (Score: 4.0): No description available.\n- Empathy (Score: 3.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Event Hosting, Teaching, Team Sports"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 54.47\nTrait Summary:\n- Empathy (Score: 2.67): No description available.\n- Self-Awareness (Score: 3.5): No description available.\n- Social Skills (Score: 2.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 58.3\nTrait Summary:\n- Self-Awareness (Score: 2.83): No description available.\n- Empathy (Score: 3.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 66.67\nTrait Summary:\n- Self-Awareness (Score: 3.67): No description available.\n- Empathy (Score: 2.33): No description available.\n- Social Skills (Score: 4.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Event Hosting, Journaling, Teaching, Team Sports"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 48.0\nTrait Summary:\n- Empathy (Score: 3.0): No description available.\n- Self-Awareness (Score: 2.2): No description available.\n- Motivation (Score: 2.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Entrepreneurship, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 65.8\nTrait Summary:\n- Empathy (Score: 3.33): No description available.\n- Self-Awareness (Score: 3.25): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 67.8\nTrait Summary:\n- Self-Awareness (Score: 3.17): No description available.\n- Empathy (Score: 4.0): No description available.\n- Motivation (Score: 3.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Entrepreneurship, Journaling, Public Speaking, Storytelling"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 52.85\nTrait Summary:\n- Self-Awareness (Score: 2.57): No description available.\n- Empathy (Score: 2.0): No description available.\n- Motivation (Score: 4.0): No description available.\n- Social Skills (Score: 2.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Entrepreneurship, Public Speaking, Science Projects, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 58.8\nTrait Summary:\n- Self-Awareness (Score: 2.88): No description available.\n- Empathy (Score: 3.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 61.9\nTrait Summary:\n- Self-Awareness (Score: 2.86): No description available.\n- Empathy (Score: 3.33): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 45.8\nTrait Summary:\n- Self-Awareness (Score: 2.83): No description available.\n- Empathy (Score: 1.75): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 54.0\nTrait Summary:\n- Empathy (Score: 2.8): No description available.\n- Self-Awareness (Score: 2.6): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 56.7\nTrait Summary:\n- Empathy (Score: 2.5): No description available.\n- Self-Awareness (Score: 3.17): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 59.6\nTrait Summary:\n- Self-Awareness (Score: 3.29): No description available.\n- Empathy (Score: 2.67): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 65.0\nTrait Summary:\n- Self-Awareness (Score: 3.0): No description available.\n- Social Skills (Score: 4.0): No description available.\n- Motivation (Score: 4.0): No description available.\n- Empathy (Score: 2.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Entrepreneurship, Event Hosting, Journaling, Public Speaking"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 54.3\nTrait Summary:\n- Empathy (Score: 3.0): No description available.\n- Self-Awareness (Score: 2.43): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 65.73\nTrait Summary:\n- Empathy (Score: 3.0): No description available.\n- Social Skills (Score: 4.0): No description available.\n- Self-Awareness (Score: 2.86): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Event Hosting, Teaching, Team Sports"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 60.0\nTrait Summary:\n- Empathy (Score: 2.5): No description available.\n- Self-Awareness (Score: 3.5): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 62.9\nTrait Summary:\n- Self-Awareness (Score: 2.29): No description available.\n- Empathy (Score: 4.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Storytelling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 71.93\nTrait Summary:\n- Self-Awareness (Score: 3.29): No description available.\n- Empathy (Score: 3.5): No description available.\n- Motivation (Score: 4.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Entrepreneurship, Journaling, Public Speaking, Science Projects"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 62.0\nTrait Summary:\n- Empathy (Score: 3.0): No description available.\n- Self-Awareness (Score: 3.4): No description available.\n- Social Skills (Score: 4.0): No description available.\n- Motivation (Score: 2.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Event Hosting, Journaling, Teaching"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 61.07\nTrait Summary:\n- Self-Awareness (Score: 3.33): No description available.\n- Empathy (Score: 2.83): No description available.\n- Motivation (Score: 3.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Entrepreneurship, Journaling, Public Speaking, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 61.33\nTrait Summary:\n- Self-Awareness (Score: 2.2): No description available.\n- Empathy (Score: 3.0): No description available.\n- Social Skills (Score: 4.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Event Hosting, Teaching, Team Sports"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 51.65\nTrait Summary:\n- Self-Awareness (Score: 2.33): No description available.\n- Social Skills (Score: 2.0): No description available.\n- Motivation (Score: 3.0): No description available.\n- Empathy (Score: 3.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Entrepreneurship, Public Speaking, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 58.35\nTrait Summary:\n- Self-Awareness (Score: 2.67): No description available.\n- Social Skills (Score: 2.0): No description available.\n- Empathy (Score: 4.0): No description available.\n- Motivation (Score: 3.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Entrepreneurship, Public Speaking, Storytelling, Teaching"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 58.87\nTrait Summary:\n- Self-Awareness (Score: 2.83): No description available.\n- Motivation (Score: 3.5): No description available.\n- Empathy (Score: 2.5): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Entrepreneurship, Public Speaking, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 64.67\nTrait Summary:\n- Self-Awareness (Score: 3.2): No description available.\n- Empathy (Score: 2.5): No description available.\n- Social Skills (Score: 4.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Event Hosting, Journaling, Teaching, Team Sports"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 50.33\nTrait Summary:\n- Self-Awareness (Score: 2.8): No description available.\n- Empathy (Score: 2.75): No description available.\n- Motivation (Score: 2.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Entrepreneurship, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 54.73\nTrait Summary:\n- Empathy (Score: 2.71): No description available.\n- Self-Awareness (Score: 1.5): No description available.\n- Motivation (Score: 4.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Entrepreneurship, Public Speaking, Science Projects, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 68.0\nTrait Summary:\n- Self-Awareness (Score: 3.4): No description available.\n- Empathy (Score: 3.4): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 71.13\nTrait Summary:\n- Self-Awareness (Score: 2.67): No description available.\n- Social Skills (Score: 4.0): No description available.\n- Empathy (Score: 4.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Event Hosting, Storytelling, Teaching"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 63.33\nTrait Summary:\n- Empathy (Score: 2.5): No description available.\n- Self-Awareness (Score: 3.0): No description available.\n- Motivation (Score: 4.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Entrepreneurship, Journaling, Public Speaking, Science Projects, Teaching"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 55.6\nTrait Summary:\n- Empathy (Score: 2.67): No description available.\n- Social Skills (Score: 3.0): No description available.\n- Self-Awareness (Score: 2.67): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Teaching, Team Sports, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 59.2\nTrait Summary:\n- Empathy (Score: 4.0): No description available.\n- Self-Awareness (Score: 2.88): No description available.\n- Motivation (Score: 2.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Entrepreneurship, Storytelling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 70.0\nTrait Summary:\n- Self-Awareness (Score: 3.17): No description available.\n- Empathy (Score: 3.33): No description available.\n- Social Skills (Score: 4.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Event Hosting, Journaling, Teaching"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 62.0\nTrait Summary:\n- Empathy (Score: 3.8): No description available.\n- Self-Awareness (Score: 2.5): No description available.\n- Motivation (Score: 3.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Entrepreneurship, Public Speaking, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 55.33\nTrait Summary:\n- Self-Awareness (Score: 2.8): No description available.\n- Empathy (Score: 3.0): No description available.\n- Social Skills (Score: 2.5): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 60.0\nTrait Summary:\n- Self-Awareness (Score: 3.67): No description available.\n- Empathy (Score: 3.33): No description available.\n- Social Skills (Score: 2.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 60.8\nTrait Summary:\n- Self-Awareness (Score: 3.12): No description available.\n- Motivation (Score: 3.0): No description available.\n- Empathy (Score: 3.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Entrepreneurship, Journaling, Public Speaking, Teaching"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 66.7\nTrait Summary:\n- Empathy (Score: 3.67): No description available.\n- Self-Awareness (Score: 3.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 56.67\nTrait Summary:\n- Self-Awareness (Score: 3.17): No description available.\n- Empathy (Score: 3.33): No description available.\n- Social Skills (Score: 2.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 66.67\nTrait Summary:\n- Self-Awareness (Score: 3.0): No description available.\n- Empathy (Score: 4.0): No description available.\n- Social Skills (Score: 3.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Journaling, Storytelling, Teaching"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 73.33\nTrait Summary:\n- Empathy (Score: 3.67): No description available.\n- Self-Awareness (Score: 3.33): No description available.\n- Social Skills (Score: 4.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Event Hosting, Journaling, Teaching"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 59.0\nTrait Summary:\n- Motivation (Score: 3.0): No description available.\n- Self-Awareness (Score: 2.8): No description available.\n- Social Skills (Score: 3.0): No description available.\n- Empathy (Score: 3.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Entrepreneurship, Public Speaking, Teaching"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 59.0\nTrait Summary:\n- Self-Awareness (Score: 2.6): No description available.\n- Social Skills (Score: 3.0): No description available.\n- Empathy (Score: 3.25): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Acting, Animal Care, Teaching, Team Sports, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 41.2\nTrait Summary:\n- Self-Awareness (Score: 2.62): No description available.\n- Empathy (Score: 1.5): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 63.33\nTrait Summary:\n- Motivation (Score: 3.0): No description available.\n- Empathy (Score: 3.5): No description available.\n- Self-Awareness (Score: 3.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Entrepreneurship, Journaling, Public Speaking, Teaching"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 67.5\nTrait Summary:\n- Empathy (Score: 3.25): No description available.\n- Self-Awareness (Score: 3.5): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Journaling, Teaching, Writing"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 64.13\nTrait Summary:\n- Self-Awareness (Score: 2.62): No description available.\n- Motivation (Score: 3.0): No description available.\n- Empathy (Score: 4.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Animal Care, Entrepreneurship, Public Speaking, Storytelling, Teaching"
+  },
+  {
+    "prompt": "User Query: What interests suit my emotional strengths?\nEQ Score: 63.33\nTrait Summary:\n- Empathy (Score: 2.67): No description available.\n- Self-Awareness (Score: 2.83): No description available.\n- Motivation (Score: 4.0): No description available.\nAge Group: 11-15",
+    "completion": "Interest Fields: Entrepreneurship, Public Speaking, Science Projects, Teaching, Writing"
+  }
+]

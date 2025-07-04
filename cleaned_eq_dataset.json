@@ -1,0 +1,1226 @@
+[
+  {
+    "trait": "Self-Awareness",
+    "question_type": "mcq",
+    "question_text": "How do you think you would feel if someone asked you to present in front of the class?",
+    "options": [
+      {
+        "label": "Excited",
+        "trait_level": "High"
+      },
+      {
+        "label": "Nervous",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "Don't know",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Empathy",
+    "question_type": "mcq",
+    "question_text": "What do you do when you see a friend crying?",
+    "options": [
+      {
+        "label": "I try to comfort them",
+        "trait_level": "High"
+      },
+      {
+        "label": "I ask them what's wrong",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "I ignore them",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Social Skills",
+    "question_type": "mcq",
+    "question_text": "What do you usually do when you feel angry?",
+    "options": [
+      {
+        "label": "I try to figure out why i'm angry",
+        "trait_level": "High"
+      },
+      {
+        "label": "I talk to a friend or family member",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "I just try to forget about it",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Empathy",
+    "question_type": "mcq",
+    "question_text": "How do you think your friend feels when they lose their favorite toy?",
+    "options": [
+      {
+        "label": "Very sad",
+        "trait_level": "High"
+      },
+      {
+        "label": "A little upset",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "It's no big deal",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Motivation",
+    "question_type": "mcq",
+    "question_text": "How do you usually feel when you make a mistake?",
+    "options": [
+      {
+        "label": "I feel okay, i know i can learn from it",
+        "trait_level": "High"
+      },
+      {
+        "label": "I feel a little upset, but i try to move on",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "I feel really angry or sad, and i don't know what to do",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Social Skills",
+    "question_type": "mcq",
+    "question_text": "How do you feel when you're stressed about a school assignment?",
+    "options": [
+      {
+        "label": "I feel anxious, but i know i can handle it",
+        "trait_level": "High"
+      },
+      {
+        "label": "I feel overwhelmed and don't know what to do",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "I feel angry and want to give up",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Self-Awareness",
+    "question_type": "mcq",
+    "question_text": "How do you feel when you're not doing well in a test?",
+    "options": [
+      {
+        "label": "I feel okay, i can try again",
+        "trait_level": "High"
+      },
+      {
+        "label": "I feel a bit sad, but i'll try to do better next time",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "I feel angry and want to give up",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Motivation",
+    "question_type": "mcq",
+    "question_text": "How do you feel when you're left alone in class?",
+    "options": [
+      {
+        "label": "I don't mind, i can focus on my work",
+        "trait_level": "High"
+      },
+      {
+        "label": "I feel a little worried or sad",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "I feel very scared or angry",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Self-Awareness",
+    "question_type": "mcq",
+    "question_text": "How do you feel when you think about your mistakes?",
+    "options": [
+      {
+        "label": "I feel okay, i can learn from them",
+        "trait_level": "High"
+      },
+      {
+        "label": "I feel a little sad, but i try to move on",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "I feel very bad and want to hide",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Self-Awareness",
+    "question_type": "mcq",
+    "question_text": "How do you feel when you're not doing well in a game or test?",
+    "options": [
+      {
+        "label": "I feel okay, i know i can do better next time",
+        "trait_level": "High"
+      },
+      {
+        "label": "I feel a bit sad or upset, but i try to focus on what i can do better",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "I feel really angry or frustrated, and i don't want to play or take the test again",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Self-Awareness",
+    "question_type": "mcq",
+    "question_text": "How do you feel when you achieve something you worked hard for?",
+    "options": [
+      {
+        "label": "Proud",
+        "trait_level": "High"
+      },
+      {
+        "label": "Okay",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "Nothing",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Self-Awareness",
+    "question_type": "mcq",
+    "question_text": "What do you usually do when you feel angry?",
+    "options": [
+      {
+        "label": "I try to calm down and think about why i'm angry",
+        "trait_level": "High"
+      },
+      {
+        "label": "I try to ignore it and do something else",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "I lash out at someone or something",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Self-Awareness",
+    "question_type": "mcq",
+    "question_text": "How do you recognize and understand your emotions when you're stressed?",
+    "options": [
+      {
+        "label": "I can easily identify my emotions and know how to manage them",
+        "trait_level": "High"
+      },
+      {
+        "label": "I can somewhat identify my emotions, but i'm not sure how to manage them",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "I don't really know how i'm feeling or what to do about it",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Self-Awareness",
+    "question_type": "mcq",
+    "question_text": "When I'm feeling sad, I know why I'm feeling that way.",
+    "options": [
+      {
+        "label": "Always",
+        "trait_level": "Very High"
+      },
+      {
+        "label": "Sometimes",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "Rarely",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Self-Awareness",
+    "question_type": "mcq",
+    "question_text": "How do you feel when you read the acknowledgments in a research article?",
+    "options": [
+      {
+        "label": "I don't know what to feel",
+        "trait_level": "Low"
+      },
+      {
+        "label": "It's okay, it's just a thank you note",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "I feel happy that people are appreciated",
+        "trait_level": "High"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Empathy",
+    "question_type": "mcq",
+    "question_text": "What do you think is the reason behind your friend's sad face?",
+    "options": [
+      {
+        "label": "They are upset because of something i did",
+        "trait_level": "High"
+      },
+      {
+        "label": "They are just having a bad day",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "I don't know, it's not my problem",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Self-Awareness",
+    "question_type": "mcq",
+    "question_text": "What do you do when you feel upset?",
+    "options": [
+      {
+        "label": "Think about why i'm feeling this way",
+        "trait_level": "High"
+      },
+      {
+        "label": "Try to ignore it and do something else",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "Just react without thinking",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Empathy",
+    "question_type": "mcq",
+    "question_text": "How do you think your friend feels when they lose their favorite toy?",
+    "options": [
+      {
+        "label": "Very sad and upset",
+        "trait_level": "High"
+      },
+      {
+        "label": "A little upset",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "It's no big deal",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Self-Awareness",
+    "question_type": "mcq",
+    "question_text": "When you make a mistake, what do you usually think about?",
+    "options": [
+      {
+        "label": "What i could have done differently",
+        "trait_level": "High"
+      },
+      {
+        "label": "How bad i feel about myself",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "It's not my fault",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Self-Awareness",
+    "question_type": "mcq",
+    "question_text": "How do you feel when someone praises you for doing a good job?",
+    "options": [
+      {
+        "label": "Happy and proud of myself",
+        "trait_level": "High"
+      },
+      {
+        "label": "A little happy, but not too much",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "I don't care",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Self-Awareness",
+    "question_type": "mcq",
+    "question_text": "How do you feel when you're left alone in class?",
+    "options": [
+      {
+        "label": "I don't know",
+        "trait_level": "Very Low"
+      },
+      {
+        "label": "A little scared",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "Okay, i can handle it",
+        "trait_level": "High"
+      }
+    ],
+    "age_group": "8-10"
+  },
+  {
+    "trait": "Self-Awareness",
+    "question_type": "mcq",
+    "question_text": "How do you feel when you make a mistake?",
+    "options": [
+      {
+        "label": "I get upset and blame others",
+        "trait_level": "Low"
+      },
+      {
+        "label": "I feel bad, but i try to learn from it",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "I take it as an opportunity to improve myself",
+        "trait_level": "High"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Self-Awareness",
+    "question_type": "mcq",
+    "question_text": "When I feel angry, I usually try to understand why I'm feeling that way.",
+    "options": [
+      {
+        "label": "Always",
+        "trait_level": "High"
+      },
+      {
+        "label": "Sometimes",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "Rarely",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Self-Awareness",
+    "question_type": "mcq",
+    "question_text": "What do you do when you feel frustrated?",
+    "options": [
+      {
+        "label": "I take a deep breath and try to calm down",
+        "trait_level": "High"
+      },
+      {
+        "label": "I try to distract myself by doing something else",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "I get angry and lash out",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Self-Awareness",
+    "question_type": "mcq",
+    "question_text": "What do you do when someone takes credit for your idea in a group?",
+    "options": [
+      {
+        "label": "I get very angry and can't focus on the rest of the discussion",
+        "trait_level": "Low"
+      },
+      {
+        "label": "I feel upset, but i try to focus on the task at hand",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "I recognize my feelings and take a moment to calm down before responding",
+        "trait_level": "High"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Empathy",
+    "question_type": "mcq",
+    "question_text": "What do you do when you see a friend looking sad?",
+    "options": [
+      {
+        "label": "Ask them what's wrong and try to help",
+        "trait_level": "High"
+      },
+      {
+        "label": "Tell them to cheer up and forget about it",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "Ignore them and play with someone else",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Empathy",
+    "question_type": "mcq",
+    "question_text": "When someone in your class is upset, what do you usually do?",
+    "options": [
+      {
+        "label": "Try to comfort them and ask what's wrong",
+        "trait_level": "High"
+      },
+      {
+        "label": "Leave them alone, it's not my problem",
+        "trait_level": "Low"
+      },
+      {
+        "label": "Ask a teacher to help them",
+        "trait_level": "Moderate"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Empathy",
+    "question_type": "mcq",
+    "question_text": "How do you feel when you see a friend crying?",
+    "options": [
+      {
+        "label": "I feel sad too",
+        "trait_level": "High"
+      },
+      {
+        "label": "I try to comfort them",
+        "trait_level": "High"
+      },
+      {
+        "label": "I don't know what to do",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "I don't care",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Self-Awareness",
+    "question_type": "mcq",
+    "question_text": "How do you feel when you're reading a book that's too hard?",
+    "options": [
+      {
+        "label": "Frustrated",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "Excited to learn",
+        "trait_level": "High"
+      },
+      {
+        "label": "I don't care",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Self-Awareness",
+    "question_type": "mcq",
+    "question_text": "What do you do when you feel sad?",
+    "options": [
+      {
+        "label": "I try to think of a happy memory",
+        "trait_level": "High"
+      },
+      {
+        "label": "I talk to a friend or family member",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "I don't know",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "8-10"
+  },
+  {
+    "trait": "Self-Awareness",
+    "question_type": "mcq",
+    "question_text": "What are some things you've been able to show other people how to do?",
+    "options": [
+      {
+        "label": "Many things",
+        "trait_level": "High"
+      },
+      {
+        "label": "A few things",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "None",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "8-10"
+  },
+  {
+    "trait": "Self-Awareness",
+    "question_type": "mcq",
+    "question_text": "How do you feel when you think about your special gifts and talents?",
+    "options": [
+      {
+        "label": "Proud",
+        "trait_level": "High"
+      },
+      {
+        "label": "Okay",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "Not sure",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Self-Awareness",
+    "question_type": "mcq",
+    "question_text": "How do you feel when your friends say unkind things to other classmates?",
+    "options": [
+      {
+        "label": "Uncomfortable",
+        "trait_level": "High"
+      },
+      {
+        "label": "Angry",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "Nothing",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Self-Awareness",
+    "question_type": "mcq",
+    "question_text": "What kind of person do you think you are?",
+    "options": [
+      {
+        "label": "Someone who is dependable and helpful",
+        "trait_level": "High"
+      },
+      {
+        "label": "Someone who is sometimes dependable and helpful",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "I don't know",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Self-Awareness",
+    "question_type": "mcq",
+    "question_text": "What does it mean to be responsible to you?",
+    "options": [
+      {
+        "label": "It means doing what i want",
+        "trait_level": "Low"
+      },
+      {
+        "label": "It means being able to take care of myself",
+        "trait_level": "High"
+      },
+      {
+        "label": "It means doing what others tell me",
+        "trait_level": "Very Low"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Empathy",
+    "question_type": "mcq",
+    "question_text": "What would you do if you saw a small girl crying because she's lost in the store?",
+    "options": [
+      {
+        "label": "Take her home with me",
+        "trait_level": "Low"
+      },
+      {
+        "label": "Yell for her parents",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "Stay with her until her parents or a responsible adult comes",
+        "trait_level": "High"
+      },
+      {
+        "label": "Tell her to stay where she is until her parents come to find her",
+        "trait_level": "Moderate"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Empathy",
+    "question_type": "mcq",
+    "question_text": "What do you do when your friend, Jeff, misses catching the ball and the kids are laughing at him?",
+    "options": [
+      {
+        "label": "Laugh quietly",
+        "trait_level": "Low"
+      },
+      {
+        "label": "Tell jeff you've missed catching the ball and it's no big deal",
+        "trait_level": "High"
+      },
+      {
+        "label": "Hit the kids who are laughing at him",
+        "trait_level": "Very Low"
+      },
+      {
+        "label": "Tell jeff he can have someone coach him",
+        "trait_level": "Moderate"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Empathy",
+    "question_type": "mcq",
+    "question_text": "What do you think your friend feels when you say 'Good try' after they miss the basket during a game?",
+    "options": [
+      {
+        "label": "Happy",
+        "trait_level": "High"
+      },
+      {
+        "label": "Sad",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "Angry",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Empathy",
+    "question_type": "mcq",
+    "question_text": "What do you think is the most important thing to write about your friend on the strip?",
+    "options": [
+      {
+        "label": "Something you like about their personality",
+        "trait_level": "High"
+      },
+      {
+        "label": "Something you like to do with them",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "Their favorite color",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "8-10"
+  },
+  {
+    "trait": "Self-Awareness",
+    "question_type": "mcq",
+    "question_text": "How does Kevin feel about going to a new school?",
+    "options": [
+      {
+        "label": "Excited",
+        "trait_level": "Low"
+      },
+      {
+        "label": "Worried",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "Confused",
+        "trait_level": "Very Low"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Self-Awareness",
+    "question_type": "mcq",
+    "question_text": "How do you feel when you imagine speaking up in class?",
+    "options": [
+      {
+        "label": "Confident",
+        "trait_level": "High"
+      },
+      {
+        "label": "Nervous",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "Scared",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Self-Awareness",
+    "question_type": "mcq",
+    "question_text": "How do you feel when you're not chosen to be in the same group as your friends?",
+    "options": [
+      {
+        "label": "Okay, i don't mind",
+        "trait_level": "High"
+      },
+      {
+        "label": "A little upset, but i can deal with it",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "Very upset and angry",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Empathy",
+    "question_type": "mcq",
+    "question_text": "How do you think Jenny feels when she's being called names and teased by classmates?",
+    "options": [
+      {
+        "label": "Happy",
+        "trait_level": "Very Low"
+      },
+      {
+        "label": "Sad",
+        "trait_level": "High"
+      },
+      {
+        "label": "Angry",
+        "trait_level": "Moderate"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Empathy",
+    "question_type": "scale",
+    "question_text": "How much do you think Kelly felt for her friend Mandy when she was picked last?",
+    "options": [
+      {
+        "label": "Not at all",
+        "trait_level": "Very Low"
+      },
+      {
+        "label": "A little",
+        "trait_level": "Low"
+      },
+      {
+        "label": "Somewhat",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "Very much",
+        "trait_level": "High"
+      }
+    ],
+    "age_group": "8-10"
+  },
+  {
+    "trait": "Self-Awareness",
+    "question_type": "mcq",
+    "question_text": "How do you feel when you think about something that makes you worried or tense?",
+    "options": [
+      {
+        "label": "I feel calm and can think clearly",
+        "trait_level": "High"
+      },
+      {
+        "label": "I feel a little worried, but i can handle it",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "I feel very worried and can't think straight",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Self-Awareness",
+    "question_type": "mcq",
+    "question_text": "What do you usually do when you regret your reaction to a situation?",
+    "options": [
+      {
+        "label": "I think about what i could have done differently",
+        "trait_level": "High"
+      },
+      {
+        "label": "I get angry with myself",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "I try to forget about it",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "8-10"
+  },
+  {
+    "trait": "Self-Awareness",
+    "question_type": "mcq",
+    "question_text": "What do you usually do when you feel unhappy about something you can't change about yourself?",
+    "options": [
+      {
+        "label": "Try to change the thing that bothers me",
+        "trait_level": "High"
+      },
+      {
+        "label": "Change my thoughts about it to feel better",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "Just feel bad or embarrassed about it",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Self-Awareness",
+    "question_type": "mcq",
+    "question_text": "How do you feel when you think your nose is too big?",
+    "options": [
+      {
+        "label": "I feel okay, it's just my nose",
+        "trait_level": "High"
+      },
+      {
+        "label": "I feel a little sad, i wish it was smaller",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "I feel really bad about myself, i hate my nose",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Self-Awareness",
+    "question_type": "mcq",
+    "question_text": "What do you think it would be like if you spent a whole day smiling?",
+    "options": [
+      {
+        "label": "I would feel happy and proud of myself",
+        "trait_level": "High"
+      },
+      {
+        "label": "I would feel a little bit happier",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "I don't think it would make a difference",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "8-10"
+  },
+  {
+    "trait": "Self-Awareness",
+    "question_type": "mcq",
+    "question_text": "How do you feel when you see someone smiling at you?",
+    "options": [
+      {
+        "label": "Happy",
+        "trait_level": "High"
+      },
+      {
+        "label": "Okay",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "Nothing",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "8-10"
+  },
+  {
+    "trait": "Self-Awareness",
+    "question_type": "mcq",
+    "question_text": "How do you feel when you make a mistake?",
+    "options": [
+      {
+        "label": "I feel okay, i can try again",
+        "trait_level": "High"
+      },
+      {
+        "label": "I feel a little upset, but i can move on",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "I feel terrible and want to give up",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Self-Awareness",
+    "question_type": "mcq",
+    "question_text": "How do you feel when you realize you made a mistake?",
+    "options": [
+      {
+        "label": "I get upset and angry",
+        "trait_level": "Low"
+      },
+      {
+        "label": "I feel bad, but i try to learn from it",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "I'm okay with it, i know it's a part of learning",
+        "trait_level": "High"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Empathy",
+    "question_type": "mcq",
+    "question_text": "How do you feel when you see someone crying?",
+    "options": [
+      {
+        "label": "I feel sad too",
+        "trait_level": "High"
+      },
+      {
+        "label": "I feel a little uncomfortable",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "I don't really care",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Empathy",
+    "question_type": "mcq",
+    "question_text": "How do you feel when someone in your class is feeling sad?",
+    "options": [
+      {
+        "label": "I try to comfort them",
+        "trait_level": "High"
+      },
+      {
+        "label": "I feel a little bad, but i don't do anything",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "I don't really care",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Empathy",
+    "question_type": "mcq",
+    "question_text": "How do you feel when you see someone crying?",
+    "options": [
+      {
+        "label": "I feel sad too",
+        "trait_level": "High"
+      },
+      {
+        "label": "I feel a little uncomfortable",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "I don't really care",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Empathy",
+    "question_type": "mcq",
+    "question_text": "How do you feel when you see an animal in pain?",
+    "options": [
+      {
+        "label": "I feel sad and want to help",
+        "trait_level": "High"
+      },
+      {
+        "label": "I feel a little bad, but it's not my problem",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "I don't care, it's just an animal",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Empathy",
+    "question_type": "mcq",
+    "question_text": "What do you do when your friend is feeling sad?",
+    "options": [
+      {
+        "label": "I try to understand why they're feeling sad",
+        "trait_level": "High"
+      },
+      {
+        "label": "I tell them to cheer up",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "I don't really care",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Empathy",
+    "question_type": "scale",
+    "question_text": "How much do you care about how other people feel?",
+    "options": [
+      {
+        "label": "Not at all",
+        "trait_level": "Very Low"
+      },
+      {
+        "label": "A little",
+        "trait_level": "Low"
+      },
+      {
+        "label": "Somewhat",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "Very much",
+        "trait_level": "High"
+      }
+    ],
+    "age_group": "11-15"
+  },
+  {
+    "trait": "Self-Awareness",
+    "question_type": "mcq",
+    "question_text": "How do you feel when you squeeze your muscles really hard like holding juicy oranges?",
+    "options": [
+      {
+        "label": "Happy and strong",
+        "trait_level": "High"
+      },
+      {
+        "label": "A little bit mad or worried",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "Really upset",
+        "trait_level": "Low"
+      }
+    ],
+    "age_group": "8-10"
+  },
+  {
+    "trait": "Self-Awareness",
+    "question_type": "scale",
+    "question_text": "How much did you notice your body feelings changing during the exercise?",
+    "options": [
+      {
+        "label": "Not at all",
+        "trait_level": "Very Low"
+      },
+      {
+        "label": "A little",
+        "trait_level": "Low"
+      },
+      {
+        "label": "Somewhat",
+        "trait_level": "Moderate"
+      },
+      {
+        "label": "Very much",
+        "trait_level": "High"
+      }
+    ],
+    "age_group": "4-7"
+  }
+]
